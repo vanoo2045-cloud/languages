@@ -14,7 +14,7 @@
     "n5": {
       "title": "N5 (будущий)",
       "goal": "Более корректные японские подстановки с учётом контекста и грамматики",
-      "rules_file": "replacement_rules.json",
+      "rules_file": "replacement_rules_n5.json",
       "allow_automatic_replacement": true,
       "require_grammatical_equivalence": true,
       "require_context_validation": true,
