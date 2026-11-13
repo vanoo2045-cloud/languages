@@ -1,0 +1,38 @@
+{
+  "language": "zh",
+  "entries": [
+    {
+      "id": "wo",
+      "written": "我",
+      "pinyin": "wǒ",
+      "meaning_ru": "я",
+      "status": "reference",
+      "mastery_confirmed": false
+    },
+    {
+      "id": "ni",
+      "written": "你",
+      "pinyin": "nǐ",
+      "meaning_ru": "ты",
+      "status": "discussed",
+      "mastery_confirmed": false
+    },
+    {
+      "id": "hai",
+      "written": "海",
+      "pinyin": "hǎi",
+      "meaning_ru": "море",
+      "status": "used_in_hybrid_writing",
+      "mastery_confirmed": false
+    },
+    {
+      "id": "gan",
+      "written": "干",
+      "pinyin": "gān",
+      "meaning_ru": "сухой; сухой (в значении «сухой»)",
+      "status": "needs_review",
+      "mastery_confirmed": false,
+      "notes": "В контексте упражнения значение «сухой»; другие чтения и значения требуют отдельного изучения"
+    }
+  ]
+}
