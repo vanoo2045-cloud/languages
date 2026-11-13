@@ -1,0 +1,54 @@
+{
+  "language": "ja",
+  "entries": [
+    {
+      "id": "kenzen",
+      "written": "健全",
+      "reading": "けんぜん",
+      "meaning_ru": "здоровый; здравый",
+      "status": "studied"
+    },
+    {
+      "id": "tamashii",
+      "written": "魂",
+      "reading": "たましい",
+      "meaning_ru": "душа",
+      "status": "studied"
+    },
+    {
+      "id": "ohayou",
+      "written": "おはよう",
+      "reading": "おはよう",
+      "meaning_ru": "доброе утро",
+      "status": "encountered"
+    },
+    {
+      "id": "neko",
+      "written": "猫",
+      "reading": "ねこ",
+      "meaning_ru": "кошка",
+      "status": "practiced"
+    },
+    {
+      "id": "inu",
+      "written": "犬",
+      "reading": "いぬ",
+      "meaning_ru": "собака",
+      "status": "practiced"
+    },
+    {
+      "id": "shiroi",
+      "written": "白い",
+      "reading": "しろい",
+      "meaning_ru": "белый",
+      "status": "practiced"
+    },
+    {
+      "id": "kawaii",
+      "written": "かわいい",
+      "reading": "かわいい",
+      "meaning_ru": "милый",
+      "status": "practiced"
+    }
+  ]
+}
