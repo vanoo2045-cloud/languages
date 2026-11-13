@@ -1009,6 +1009,1112 @@
       "learned_meaning": false,
       "reading_confirmed": false,
       "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+    },
+    {
+      "character": "思",
+      "meaning_ru": "думать",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 9 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "分",
+      "meaning_ru": "понимать, доля",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 11 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "行",
+      "meaning_ru": "идти",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 13 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "時",
+      "meaning_ru": "время, час",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 14 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "事",
+      "meaning_ru": "дело",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 15 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "何",
+      "meaning_ru": "что",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 17 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "自",
+      "meaning_ru": "сам",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 19 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "彼",
+      "meaning_ru": "он",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 20 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "間",
+      "meaning_ru": "промежуток",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 22 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "言",
+      "meaning_ru": "говорить",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 23 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "方",
+      "meaning_ru": "направление, способ",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 24 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "家",
+      "meaning_ru": "дом",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 36 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "物",
+      "meaning_ru": "вещь",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 38 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "的",
+      "meaning_ru": "цель, суффикс прилагательного",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 39 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "知",
+      "meaning_ru": "знать",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 43 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "作",
+      "meaning_ru": "создавать",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 45 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "書",
+      "meaning_ru": "писать",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 49 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "合",
+      "meaning_ru": "соединять",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 50 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "後",
+      "meaning_ru": "после, сзади",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 51 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "持",
+      "meaning_ru": "держать",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 53 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "無",
+      "meaning_ru": "без, отсутствие",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 54 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "居",
+      "meaning_ru": "находиться",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 55 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "意",
+      "meaning_ru": "намерение",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 56 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "様",
+      "meaning_ru": "вид, положение",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 57 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "度",
+      "meaning_ru": "раз, градус",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 59 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "屋",
+      "meaning_ru": "дом, крыша",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 60 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "同",
+      "meaning_ru": "одинаковый",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 61 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "話",
+      "meaning_ru": "разговор",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 62 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "御",
+      "meaning_ru": "уважительный префикс",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 64 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "不",
+      "meaning_ru": "не",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 65 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "身",
+      "meaning_ru": "тело",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 66 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "実",
+      "meaning_ru": "реальность",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 67 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "少",
+      "meaning_ru": "мало",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 69 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "所",
+      "meaning_ru": "место",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 70 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "長",
+      "meaning_ru": "длинный",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 71 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "聞",
+      "meaning_ru": "слышать",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 73 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "通",
+      "meaning_ru": "проходить",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 74 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "然",
+      "meaning_ru": "так",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 77 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "代",
+      "meaning_ru": "заменять, эпоха",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 78 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "感",
+      "meaning_ru": "чувство",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 79 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "第",
+      "meaning_ru": "порядковый номер",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 80 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "顔",
+      "meaning_ru": "лицо",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 81 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "理",
+      "meaning_ru": "принцип, разум",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 83 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "世",
+      "meaning_ru": "мир, поколение",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 84 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "場",
+      "meaning_ru": "место",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 86 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "当",
+      "meaning_ru": "правильный, данный",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 91 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "会",
+      "meaning_ru": "встреча",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 92 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "君",
+      "meaning_ru": "ты",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 94 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "考",
+      "meaning_ru": "размышлять",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 97 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "成",
+      "meaning_ru": "становиться",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 98 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "外",
+      "meaning_ru": "снаружи",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 99 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "取",
+      "meaning_ru": "брать",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 101 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "向",
+      "meaning_ru": "направление",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 103 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "僕",
+      "meaning_ru": "я (мужское)",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 104 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "郎",
+      "meaning_ru": "молодой мужчина",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 105 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "動",
+      "meaning_ru": "двигаться",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 106 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "部",
+      "meaning_ru": "часть, отдел",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 107 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "風",
+      "meaning_ru": "ветер",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 109 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "新",
+      "meaning_ru": "новый",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 110 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "声",
+      "meaning_ru": "голос",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 113 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "内",
+      "meaning_ru": "внутри",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 115 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "相",
+      "meaning_ru": "взаимный",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 116 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "味",
+      "meaning_ru": "вкус",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 118 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "葉",
+      "meaning_ru": "лист",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 119 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "眼",
+      "meaning_ru": "глаз",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 120 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "多",
+      "meaning_ru": "много",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 123 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "現",
+      "meaning_ru": "появляться",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 124 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "切",
+      "meaning_ru": "резать",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 126 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "平",
+      "meaning_ru": "ровный",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 127 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "近",
+      "meaning_ru": "близкий",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 129 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "色",
+      "meaning_ru": "цвет",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 130 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "発",
+      "meaning_ru": "отправляться, испускать",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 131 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "高",
+      "meaning_ru": "высокий",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 132 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "以",
+      "meaning_ru": "посредством",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 133 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "用",
+      "meaning_ru": "использовать",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 135 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "頭",
+      "meaning_ru": "голова",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 136 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "笑",
+      "meaning_ru": "смех, улыбка",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 139 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "得",
+      "meaning_ru": "получать",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 142 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "美",
+      "meaning_ru": "красивый",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 143 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "次",
+      "meaning_ru": "следующий",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 144 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "引",
+      "meaning_ru": "тянуть",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 145 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "夫",
+      "meaning_ru": "муж",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 146 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "太",
+      "meaning_ru": "толстый",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 147 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "対",
+      "meaning_ru": "противоположный",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 149 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "親",
+      "meaning_ru": "родитель",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 151 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "帰",
+      "meaning_ru": "возвращаться",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 152 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "情",
+      "meaning_ru": "чувства",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 153 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "野",
+      "meaning_ru": "поле",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 155 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "表",
+      "meaning_ru": "поверхность, выражать",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 156 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "歩",
+      "meaning_ru": "шагать",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 157 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "食",
+      "meaning_ru": "еда",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 158 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "落",
+      "meaning_ru": "падать",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 159 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "性",
+      "meaning_ru": "пол, характер",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 160 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "最",
+      "meaning_ru": "самый",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 161 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "馬",
+      "meaning_ru": "лошадь",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 162 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "等",
+      "meaning_ru": "равный",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 163 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "形",
+      "meaning_ru": "форма",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 165 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "変",
+      "meaning_ru": "изменяться",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 166 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "仕",
+      "meaning_ru": "служить",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 167 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "込",
+      "meaning_ru": "вкладывать",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 168 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "問",
+      "meaning_ru": "вопрос",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 169 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "初",
+      "meaning_ru": "начало",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 173 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "論",
+      "meaning_ru": "теория",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 174 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "記",
+      "meaning_ru": "записывать",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 175 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "有",
+      "meaning_ru": "иметь",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 176 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "着",
+      "meaning_ru": "надевать, прибывать",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 177 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "直",
+      "meaning_ru": "прямой",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 178 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "達",
+      "meaning_ru": "достигать",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 180 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "別",
+      "meaning_ru": "другой",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 183 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "活",
+      "meaning_ru": "активный",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 187 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "社",
+      "meaning_ru": "компания, святилище",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 188 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "士",
+      "meaning_ru": "воин",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 189 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "門",
+      "meaning_ru": "ворота",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 190 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "重",
+      "meaning_ru": "тяжёлый",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 191 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "結",
+      "meaning_ru": "соединять",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 192 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "流",
+      "meaning_ru": "течение",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 194 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "起",
+      "meaning_ru": "просыпаться",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 195 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "和",
+      "meaning_ru": "гармония",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 197 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "説",
+      "meaning_ru": "объяснять",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 199 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "若",
+      "meaning_ru": "молодой",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 200 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "違",
+      "meaning_ru": "отличаться",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 201 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "吉",
+      "meaning_ru": "удача",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 203 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "底",
+      "meaning_ru": "дно",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 205 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "想",
+      "meaning_ru": "мысль",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 206 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "返",
+      "meaning_ru": "возвращать",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 207 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "原",
+      "meaning_ru": "луг",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 209 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "他",
+      "meaning_ru": "другой",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 210 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "処",
+      "meaning_ru": "место, распоряжаться",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 211 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "置",
+      "meaning_ru": "класть",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 212 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "化",
+      "meaning_ru": "превращаться",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 213 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "我",
+      "meaning_ru": "я",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 214 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "命",
+      "meaning_ru": "жизнь, приказ",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 215 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "数",
+      "meaning_ru": "число",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 216 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "義",
+      "meaning_ru": "справедливость, долг",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 218 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "古",
+      "meaning_ru": "старый",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 219 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "関",
+      "meaning_ru": "отношение, барьер",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 220 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "付",
+      "meaning_ru": "прикреплять",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 221 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "朝",
+      "meaning_ru": "утро",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 222 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "解",
+      "meaning_ru": "понимать, разбирать",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 224 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "海",
+      "meaning_ru": "море",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 227 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "如",
+      "meaning_ru": "подобно",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 228 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "氏",
+      "meaning_ru": "фамилия, род",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 230 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "要",
+      "meaning_ru": "нужный",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 231 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "苦",
+      "meaning_ru": "страдать",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 233 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "定",
+      "meaning_ru": "определять",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 234 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "過",
+      "meaning_ru": "проходить, превышать",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 236 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "戸",
+      "meaning_ru": "дверь",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 237 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "東",
+      "meaning_ru": "восток",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 238 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "飛",
+      "meaning_ru": "летать",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 239 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "安",
+      "meaning_ru": "дешёвый, спокойный",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 240 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "誰",
+      "meaning_ru": "кто",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 241 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "半",
+      "meaning_ru": "половина",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 243 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "助",
+      "meaning_ru": "помогать",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 245 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "頃",
+      "meaning_ru": "время, около",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 246 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "庫",
+      "meaning_ru": "склад",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 247 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "在",
+      "meaning_ru": "существовать",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 248 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "集",
+      "meaning_ru": "собирать",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 249 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "民",
+      "meaning_ru": "народ",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Запланировано для изучения: № 250 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
     }
   ]
 }

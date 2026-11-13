@@ -108,6 +108,1451 @@
         "Узнавать знакомые фразы в аниме",
         "Закреплять частицы の и は"
       ]
+    },
+    {
+      "id": "ja-interesting-phrases-from-doc",
+      "language": "ja",
+      "title": "Интересные реплики: просьбы, «получай!» и «что?!»",
+      "priority": "high",
+      "status": "planned",
+      "prerequisite_ids": [],
+      "objectives": [
+        "Разобрать やめてください, やめて и ください как вежливую просьбу.",
+        "Изучить くらえよ, くらえ и よ; отличать разговорный боевой выкрик от вежливой речи.",
+        "Повторить なに（何）: значение, чтение и интонацию.",
+        "Отрабатывать чтение и употребление до подтверждения освоения."
+      ],
+      "source_text": "https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit",
+      "vocabulary_candidates": [
+        {
+          "japan": "やめてください",
+          "hiragana": "やめてください",
+          "word": "пожалуйста, прекратите"
+        },
+        {
+          "japan": "やめて",
+          "hiragana": "やめて",
+          "word": "прекратите; перестаньте"
+        },
+        {
+          "japan": "ください",
+          "hiragana": "ください",
+          "word": "пожалуйста (в вежливой просьбе)"
+        },
+        {
+          "japan": "くらえよ",
+          "hiragana": "くらえよ",
+          "word": "на, получай!; получи! (разговорный боевой выкрик)"
+        },
+        {
+          "japan": "くらえ",
+          "hiragana": "くらえ",
+          "word": "получай!"
+        },
+        {
+          "japan": "よ",
+          "hiragana": "よ",
+          "word": "усилительная частица"
+        },
+        {
+          "japan": "何",
+          "hiragana": "なに",
+          "word": "что?; что?!; чего?!"
+        }
+      ]
+    },
+    {
+      "id": "ja-road-vocabulary-from-doc",
+      "language": "ja",
+      "title": "Слова с японской дороги: остановка, направления и Япония",
+      "priority": "high",
+      "status": "planned",
+      "prerequisite_ids": [],
+      "objectives": [
+        "Различать приказ 止まれ и вежливую просьбу 止まってください.",
+        "Читать и употреблять 道, 車, 右, 左 и まっすぐ.",
+        "Закрепить 日本 и ありがとう в коротких фразах.",
+        "Проверять чтения отдельно от уже знакомых значений кандзи."
+      ],
+      "source_text": "https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit",
+      "vocabulary_candidates": [
+        {
+          "japan": "止まれ",
+          "hiragana": "とまれ",
+          "word": "стоп!; остановись! (приказ на дорожном знаке)"
+        },
+        {
+          "japan": "止まってください",
+          "hiragana": "とまってください",
+          "word": "остановитесь, пожалуйста"
+        },
+        {
+          "japan": "道",
+          "hiragana": "みち",
+          "word": "дорога; путь"
+        },
+        {
+          "japan": "車",
+          "hiragana": "くるま",
+          "word": "автомобиль"
+        },
+        {
+          "japan": "右",
+          "hiragana": "みぎ",
+          "word": "право; правая сторона"
+        },
+        {
+          "japan": "左",
+          "hiragana": "ひだり",
+          "word": "лево; левая сторона"
+        },
+        {
+          "japan": "まっすぐ",
+          "hiragana": "まっすぐ",
+          "word": "прямо"
+        },
+        {
+          "japan": "日本",
+          "hiragana": "にほん",
+          "word": "Япония"
+        },
+        {
+          "japan": "ありがとう",
+          "hiragana": "ありがとう",
+          "word": "спасибо"
+        }
+      ]
+    },
+    {
+      "id": "ja-top-250-kanji-from-doc",
+      "language": "ja",
+      "title": "250 популярных кандзи из личного списка",
+      "priority": "medium",
+      "status": "planned",
+      "prerequisite_ids": [],
+      "objectives": [
+        "Сохранять порядок личного списка и проходить незнакомые знаки небольшими группами.",
+        "Пропускать повторное изучение уже подтверждённых значений (62 на момент импорта); чтения проверять отдельно.",
+        "Не отмечать освоенным весь список по факту его добавления.",
+        "Использовать вместе с программой кандзи второго класса, без дублирования записей в kanji.json."
+      ],
+      "source_text": "https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit",
+      "already_covered": [
+        "人",
+        "一",
+        "見",
+        "出",
+        "日",
+        "子",
+        "大",
+        "上",
+        "中",
+        "二",
+        "生",
+        "手",
+        "女",
+        "気",
+        "本",
+        "年",
+        "三",
+        "十",
+        "下",
+        "立",
+        "小",
+        "文",
+        "入",
+        "月",
+        "目",
+        "学",
+        "山",
+        "先",
+        "力",
+        "明",
+        "五",
+        "水",
+        "口",
+        "空",
+        "田",
+        "四",
+        "名",
+        "男",
+        "白",
+        "正",
+        "青",
+        "木",
+        "足",
+        "金",
+        "八",
+        "天",
+        "音",
+        "六",
+        "川",
+        "七",
+        "村",
+        "校",
+        "花",
+        "車",
+        "字",
+        "百",
+        "早",
+        "石",
+        "火",
+        "土",
+        "九",
+        "町"
+      ],
+      "kanji_candidates": [
+        {
+          "rank": 1,
+          "character": "人",
+          "meaning_ru": "человек"
+        },
+        {
+          "rank": 2,
+          "character": "一",
+          "meaning_ru": "один"
+        },
+        {
+          "rank": 3,
+          "character": "見",
+          "meaning_ru": "видеть"
+        },
+        {
+          "rank": 4,
+          "character": "出",
+          "meaning_ru": "выход"
+        },
+        {
+          "rank": 5,
+          "character": "日",
+          "meaning_ru": "день, солнце"
+        },
+        {
+          "rank": 6,
+          "character": "来",
+          "meaning_ru": "приходить"
+        },
+        {
+          "rank": 7,
+          "character": "子",
+          "meaning_ru": "ребёнок"
+        },
+        {
+          "rank": 8,
+          "character": "大",
+          "meaning_ru": "большой"
+        },
+        {
+          "rank": 9,
+          "character": "思",
+          "meaning_ru": "думать"
+        },
+        {
+          "rank": 10,
+          "character": "上",
+          "meaning_ru": "верх"
+        },
+        {
+          "rank": 11,
+          "character": "分",
+          "meaning_ru": "понимать, доля"
+        },
+        {
+          "rank": 12,
+          "character": "中",
+          "meaning_ru": "середина, внутри"
+        },
+        {
+          "rank": 13,
+          "character": "行",
+          "meaning_ru": "идти"
+        },
+        {
+          "rank": 14,
+          "character": "時",
+          "meaning_ru": "время, час"
+        },
+        {
+          "rank": 15,
+          "character": "事",
+          "meaning_ru": "дело"
+        },
+        {
+          "rank": 16,
+          "character": "二",
+          "meaning_ru": "два"
+        },
+        {
+          "rank": 17,
+          "character": "何",
+          "meaning_ru": "что"
+        },
+        {
+          "rank": 18,
+          "character": "私",
+          "meaning_ru": "я"
+        },
+        {
+          "rank": 19,
+          "character": "自",
+          "meaning_ru": "сам"
+        },
+        {
+          "rank": 20,
+          "character": "彼",
+          "meaning_ru": "он"
+        },
+        {
+          "rank": 21,
+          "character": "生",
+          "meaning_ru": "жизнь, рождаться"
+        },
+        {
+          "rank": 22,
+          "character": "間",
+          "meaning_ru": "промежуток"
+        },
+        {
+          "rank": 23,
+          "character": "言",
+          "meaning_ru": "говорить"
+        },
+        {
+          "rank": 24,
+          "character": "方",
+          "meaning_ru": "направление, способ"
+        },
+        {
+          "rank": 25,
+          "character": "手",
+          "meaning_ru": "рука"
+        },
+        {
+          "rank": 26,
+          "character": "女",
+          "meaning_ru": "женщина"
+        },
+        {
+          "rank": 27,
+          "character": "気",
+          "meaning_ru": "дух, энергия"
+        },
+        {
+          "rank": 28,
+          "character": "本",
+          "meaning_ru": "книга, основа"
+        },
+        {
+          "rank": 29,
+          "character": "年",
+          "meaning_ru": "год"
+        },
+        {
+          "rank": 30,
+          "character": "三",
+          "meaning_ru": "три"
+        },
+        {
+          "rank": 31,
+          "character": "者",
+          "meaning_ru": "человек"
+        },
+        {
+          "rank": 32,
+          "character": "前",
+          "meaning_ru": "перед, до"
+        },
+        {
+          "rank": 33,
+          "character": "十",
+          "meaning_ru": "десять"
+        },
+        {
+          "rank": 34,
+          "character": "心",
+          "meaning_ru": "сердце"
+        },
+        {
+          "rank": 35,
+          "character": "今",
+          "meaning_ru": "сейчас"
+        },
+        {
+          "rank": 36,
+          "character": "家",
+          "meaning_ru": "дом"
+        },
+        {
+          "rank": 37,
+          "character": "下",
+          "meaning_ru": "низ"
+        },
+        {
+          "rank": 38,
+          "character": "物",
+          "meaning_ru": "вещь"
+        },
+        {
+          "rank": 39,
+          "character": "的",
+          "meaning_ru": "цель, суффикс прилагательного"
+        },
+        {
+          "rank": 40,
+          "character": "立",
+          "meaning_ru": "стоять"
+        },
+        {
+          "rank": 41,
+          "character": "小",
+          "meaning_ru": "маленький"
+        },
+        {
+          "rank": 42,
+          "character": "文",
+          "meaning_ru": "текст"
+        },
+        {
+          "rank": 43,
+          "character": "知",
+          "meaning_ru": "знать"
+        },
+        {
+          "rank": 44,
+          "character": "入",
+          "meaning_ru": "входить"
+        },
+        {
+          "rank": 45,
+          "character": "作",
+          "meaning_ru": "создавать"
+        },
+        {
+          "rank": 46,
+          "character": "月",
+          "meaning_ru": "луна, месяц"
+        },
+        {
+          "rank": 47,
+          "character": "目",
+          "meaning_ru": "глаз"
+        },
+        {
+          "rank": 48,
+          "character": "学",
+          "meaning_ru": "учиться"
+        },
+        {
+          "rank": 49,
+          "character": "書",
+          "meaning_ru": "писать"
+        },
+        {
+          "rank": 50,
+          "character": "合",
+          "meaning_ru": "соединять"
+        },
+        {
+          "rank": 51,
+          "character": "後",
+          "meaning_ru": "после, сзади"
+        },
+        {
+          "rank": 52,
+          "character": "山",
+          "meaning_ru": "гора"
+        },
+        {
+          "rank": 53,
+          "character": "持",
+          "meaning_ru": "держать"
+        },
+        {
+          "rank": 54,
+          "character": "無",
+          "meaning_ru": "без, отсутствие"
+        },
+        {
+          "rank": 55,
+          "character": "居",
+          "meaning_ru": "находиться"
+        },
+        {
+          "rank": 56,
+          "character": "意",
+          "meaning_ru": "намерение"
+        },
+        {
+          "rank": 57,
+          "character": "様",
+          "meaning_ru": "вид, положение"
+        },
+        {
+          "rank": 58,
+          "character": "地",
+          "meaning_ru": "земля"
+        },
+        {
+          "rank": 59,
+          "character": "度",
+          "meaning_ru": "раз, градус"
+        },
+        {
+          "rank": 60,
+          "character": "屋",
+          "meaning_ru": "дом, крыша"
+        },
+        {
+          "rank": 61,
+          "character": "同",
+          "meaning_ru": "одинаковый"
+        },
+        {
+          "rank": 62,
+          "character": "話",
+          "meaning_ru": "разговор"
+        },
+        {
+          "rank": 63,
+          "character": "先",
+          "meaning_ru": "раньше, впереди"
+        },
+        {
+          "rank": 64,
+          "character": "御",
+          "meaning_ru": "уважительный префикс"
+        },
+        {
+          "rank": 65,
+          "character": "不",
+          "meaning_ru": "не"
+        },
+        {
+          "rank": 66,
+          "character": "身",
+          "meaning_ru": "тело"
+        },
+        {
+          "rank": 67,
+          "character": "実",
+          "meaning_ru": "реальность"
+        },
+        {
+          "rank": 68,
+          "character": "力",
+          "meaning_ru": "сила"
+        },
+        {
+          "rank": 69,
+          "character": "少",
+          "meaning_ru": "мало"
+        },
+        {
+          "rank": 70,
+          "character": "所",
+          "meaning_ru": "место"
+        },
+        {
+          "rank": 71,
+          "character": "長",
+          "meaning_ru": "длинный"
+        },
+        {
+          "rank": 72,
+          "character": "明",
+          "meaning_ru": "яркий"
+        },
+        {
+          "rank": 73,
+          "character": "聞",
+          "meaning_ru": "слышать"
+        },
+        {
+          "rank": 74,
+          "character": "通",
+          "meaning_ru": "проходить"
+        },
+        {
+          "rank": 75,
+          "character": "五",
+          "meaning_ru": "пять"
+        },
+        {
+          "rank": 76,
+          "character": "水",
+          "meaning_ru": "вода"
+        },
+        {
+          "rank": 77,
+          "character": "然",
+          "meaning_ru": "так"
+        },
+        {
+          "rank": 78,
+          "character": "代",
+          "meaning_ru": "заменять, эпоха"
+        },
+        {
+          "rank": 79,
+          "character": "感",
+          "meaning_ru": "чувство"
+        },
+        {
+          "rank": 80,
+          "character": "第",
+          "meaning_ru": "порядковый номер"
+        },
+        {
+          "rank": 81,
+          "character": "顔",
+          "meaning_ru": "лицо"
+        },
+        {
+          "rank": 82,
+          "character": "口",
+          "meaning_ru": "рот"
+        },
+        {
+          "rank": 83,
+          "character": "理",
+          "meaning_ru": "принцип, разум"
+        },
+        {
+          "rank": 84,
+          "character": "世",
+          "meaning_ru": "мир, поколение"
+        },
+        {
+          "rank": 85,
+          "character": "空",
+          "meaning_ru": "небо, пустота"
+        },
+        {
+          "rank": 86,
+          "character": "場",
+          "meaning_ru": "место"
+        },
+        {
+          "rank": 87,
+          "character": "田",
+          "meaning_ru": "рисовое поле"
+        },
+        {
+          "rank": 88,
+          "character": "四",
+          "meaning_ru": "четыре"
+        },
+        {
+          "rank": 89,
+          "character": "面",
+          "meaning_ru": "поверхность, сторона"
+        },
+        {
+          "rank": 90,
+          "character": "名",
+          "meaning_ru": "имя"
+        },
+        {
+          "rank": 91,
+          "character": "当",
+          "meaning_ru": "правильный, данный"
+        },
+        {
+          "rank": 92,
+          "character": "会",
+          "meaning_ru": "встреча"
+        },
+        {
+          "rank": 93,
+          "character": "主",
+          "meaning_ru": "хозяин"
+        },
+        {
+          "rank": 94,
+          "character": "君",
+          "meaning_ru": "ты"
+        },
+        {
+          "rank": 95,
+          "character": "男",
+          "meaning_ru": "мужчина"
+        },
+        {
+          "rank": 96,
+          "character": "白",
+          "meaning_ru": "белый"
+        },
+        {
+          "rank": 97,
+          "character": "考",
+          "meaning_ru": "размышлять"
+        },
+        {
+          "rank": 98,
+          "character": "成",
+          "meaning_ru": "становиться"
+        },
+        {
+          "rank": 99,
+          "character": "外",
+          "meaning_ru": "снаружи"
+        },
+        {
+          "rank": 100,
+          "character": "道",
+          "meaning_ru": "дорога"
+        },
+        {
+          "rank": 101,
+          "character": "取",
+          "meaning_ru": "брать"
+        },
+        {
+          "rank": 102,
+          "character": "正",
+          "meaning_ru": "правильный"
+        },
+        {
+          "rank": 103,
+          "character": "向",
+          "meaning_ru": "направление"
+        },
+        {
+          "rank": 104,
+          "character": "僕",
+          "meaning_ru": "я (мужское)"
+        },
+        {
+          "rank": 105,
+          "character": "郎",
+          "meaning_ru": "молодой мужчина"
+        },
+        {
+          "rank": 106,
+          "character": "動",
+          "meaning_ru": "двигаться"
+        },
+        {
+          "rank": 107,
+          "character": "部",
+          "meaning_ru": "часть, отдел"
+        },
+        {
+          "rank": 108,
+          "character": "国",
+          "meaning_ru": "страна"
+        },
+        {
+          "rank": 109,
+          "character": "風",
+          "meaning_ru": "ветер"
+        },
+        {
+          "rank": 110,
+          "character": "新",
+          "meaning_ru": "новый"
+        },
+        {
+          "rank": 111,
+          "character": "神",
+          "meaning_ru": "божество"
+        },
+        {
+          "rank": 112,
+          "character": "体",
+          "meaning_ru": "тело"
+        },
+        {
+          "rank": 113,
+          "character": "声",
+          "meaning_ru": "голос"
+        },
+        {
+          "rank": 114,
+          "character": "夜",
+          "meaning_ru": "ночь"
+        },
+        {
+          "rank": 115,
+          "character": "内",
+          "meaning_ru": "внутри"
+        },
+        {
+          "rank": 116,
+          "character": "相",
+          "meaning_ru": "взаимный"
+        },
+        {
+          "rank": 117,
+          "character": "青",
+          "meaning_ru": "синий"
+        },
+        {
+          "rank": 118,
+          "character": "味",
+          "meaning_ru": "вкус"
+        },
+        {
+          "rank": 119,
+          "character": "葉",
+          "meaning_ru": "лист"
+        },
+        {
+          "rank": 120,
+          "character": "眼",
+          "meaning_ru": "глаз"
+        },
+        {
+          "rank": 121,
+          "character": "全",
+          "meaning_ru": "весь"
+        },
+        {
+          "rank": 122,
+          "character": "木",
+          "meaning_ru": "дерево"
+        },
+        {
+          "rank": 123,
+          "character": "多",
+          "meaning_ru": "много"
+        },
+        {
+          "rank": 124,
+          "character": "現",
+          "meaning_ru": "появляться"
+        },
+        {
+          "rank": 125,
+          "character": "足",
+          "meaning_ru": "нога"
+        },
+        {
+          "rank": 126,
+          "character": "切",
+          "meaning_ru": "резать"
+        },
+        {
+          "rank": 127,
+          "character": "平",
+          "meaning_ru": "ровный"
+        },
+        {
+          "rank": 128,
+          "character": "金",
+          "meaning_ru": "золото, деньги"
+        },
+        {
+          "rank": 129,
+          "character": "近",
+          "meaning_ru": "близкий"
+        },
+        {
+          "rank": 130,
+          "character": "色",
+          "meaning_ru": "цвет"
+        },
+        {
+          "rank": 131,
+          "character": "発",
+          "meaning_ru": "отправляться, испускать"
+        },
+        {
+          "rank": 132,
+          "character": "高",
+          "meaning_ru": "высокий"
+        },
+        {
+          "rank": 133,
+          "character": "以",
+          "meaning_ru": "посредством"
+        },
+        {
+          "rank": 134,
+          "character": "真",
+          "meaning_ru": "правда"
+        },
+        {
+          "rank": 135,
+          "character": "用",
+          "meaning_ru": "использовать"
+        },
+        {
+          "rank": 136,
+          "character": "頭",
+          "meaning_ru": "голова"
+        },
+        {
+          "rank": 137,
+          "character": "母",
+          "meaning_ru": "мать"
+        },
+        {
+          "rank": 138,
+          "character": "死",
+          "meaning_ru": "смерть"
+        },
+        {
+          "rank": 139,
+          "character": "笑",
+          "meaning_ru": "смех, улыбка"
+        },
+        {
+          "rank": 140,
+          "character": "八",
+          "meaning_ru": "восемь"
+        },
+        {
+          "rank": 141,
+          "character": "天",
+          "meaning_ru": "небо"
+        },
+        {
+          "rank": 142,
+          "character": "得",
+          "meaning_ru": "получать"
+        },
+        {
+          "rank": 143,
+          "character": "美",
+          "meaning_ru": "красивый"
+        },
+        {
+          "rank": 144,
+          "character": "次",
+          "meaning_ru": "следующий"
+        },
+        {
+          "rank": 145,
+          "character": "引",
+          "meaning_ru": "тянуть"
+        },
+        {
+          "rank": 146,
+          "character": "夫",
+          "meaning_ru": "муж"
+        },
+        {
+          "rank": 147,
+          "character": "太",
+          "meaning_ru": "толстый"
+        },
+        {
+          "rank": 148,
+          "character": "音",
+          "meaning_ru": "звук"
+        },
+        {
+          "rank": 149,
+          "character": "対",
+          "meaning_ru": "противоположный"
+        },
+        {
+          "rank": 150,
+          "character": "父",
+          "meaning_ru": "отец"
+        },
+        {
+          "rank": 151,
+          "character": "親",
+          "meaning_ru": "родитель"
+        },
+        {
+          "rank": 152,
+          "character": "帰",
+          "meaning_ru": "возвращаться"
+        },
+        {
+          "rank": 153,
+          "character": "情",
+          "meaning_ru": "чувства"
+        },
+        {
+          "rank": 154,
+          "character": "六",
+          "meaning_ru": "шесть"
+        },
+        {
+          "rank": 155,
+          "character": "野",
+          "meaning_ru": "поле"
+        },
+        {
+          "rank": 156,
+          "character": "表",
+          "meaning_ru": "поверхность, выражать"
+        },
+        {
+          "rank": 157,
+          "character": "歩",
+          "meaning_ru": "шагать"
+        },
+        {
+          "rank": 158,
+          "character": "食",
+          "meaning_ru": "еда"
+        },
+        {
+          "rank": 159,
+          "character": "落",
+          "meaning_ru": "падать"
+        },
+        {
+          "rank": 160,
+          "character": "性",
+          "meaning_ru": "пол, характер"
+        },
+        {
+          "rank": 161,
+          "character": "最",
+          "meaning_ru": "самый"
+        },
+        {
+          "rank": 162,
+          "character": "馬",
+          "meaning_ru": "лошадь"
+        },
+        {
+          "rank": 163,
+          "character": "等",
+          "meaning_ru": "равный"
+        },
+        {
+          "rank": 164,
+          "character": "川",
+          "meaning_ru": "река"
+        },
+        {
+          "rank": 165,
+          "character": "形",
+          "meaning_ru": "форма"
+        },
+        {
+          "rank": 166,
+          "character": "変",
+          "meaning_ru": "изменяться"
+        },
+        {
+          "rank": 167,
+          "character": "仕",
+          "meaning_ru": "служить"
+        },
+        {
+          "rank": 168,
+          "character": "込",
+          "meaning_ru": "вкладывать"
+        },
+        {
+          "rank": 169,
+          "character": "問",
+          "meaning_ru": "вопрос"
+        },
+        {
+          "rank": 170,
+          "character": "信",
+          "meaning_ru": "доверие"
+        },
+        {
+          "rank": 171,
+          "character": "七",
+          "meaning_ru": "семь"
+        },
+        {
+          "rank": 172,
+          "character": "教",
+          "meaning_ru": "учить"
+        },
+        {
+          "rank": 173,
+          "character": "初",
+          "meaning_ru": "начало"
+        },
+        {
+          "rank": 174,
+          "character": "論",
+          "meaning_ru": "теория"
+        },
+        {
+          "rank": 175,
+          "character": "記",
+          "meaning_ru": "записывать"
+        },
+        {
+          "rank": 176,
+          "character": "有",
+          "meaning_ru": "иметь"
+        },
+        {
+          "rank": 177,
+          "character": "着",
+          "meaning_ru": "надевать, прибывать"
+        },
+        {
+          "rank": 178,
+          "character": "直",
+          "meaning_ru": "прямой"
+        },
+        {
+          "rank": 179,
+          "character": "法",
+          "meaning_ru": "закон, метод"
+        },
+        {
+          "rank": 180,
+          "character": "達",
+          "meaning_ru": "достигать"
+        },
+        {
+          "rank": 181,
+          "character": "悪",
+          "meaning_ru": "плохой"
+        },
+        {
+          "rank": 182,
+          "character": "好",
+          "meaning_ru": "нравиться"
+        },
+        {
+          "rank": 183,
+          "character": "別",
+          "meaning_ru": "другой"
+        },
+        {
+          "rank": 184,
+          "character": "語",
+          "meaning_ru": "язык"
+        },
+        {
+          "rank": 185,
+          "character": "光",
+          "meaning_ru": "свет"
+        },
+        {
+          "rank": 186,
+          "character": "村",
+          "meaning_ru": "деревня"
+        },
+        {
+          "rank": 187,
+          "character": "活",
+          "meaning_ru": "активный"
+        },
+        {
+          "rank": 188,
+          "character": "社",
+          "meaning_ru": "компания, святилище"
+        },
+        {
+          "rank": 189,
+          "character": "士",
+          "meaning_ru": "воин"
+        },
+        {
+          "rank": 190,
+          "character": "門",
+          "meaning_ru": "ворота"
+        },
+        {
+          "rank": 191,
+          "character": "重",
+          "meaning_ru": "тяжёлый"
+        },
+        {
+          "rank": 192,
+          "character": "結",
+          "meaning_ru": "соединять"
+        },
+        {
+          "rank": 193,
+          "character": "点",
+          "meaning_ru": "точка"
+        },
+        {
+          "rank": 194,
+          "character": "流",
+          "meaning_ru": "течение"
+        },
+        {
+          "rank": 195,
+          "character": "起",
+          "meaning_ru": "просыпаться"
+        },
+        {
+          "rank": 196,
+          "character": "校",
+          "meaning_ru": "школа"
+        },
+        {
+          "rank": 197,
+          "character": "和",
+          "meaning_ru": "гармония"
+        },
+        {
+          "rank": 198,
+          "character": "花",
+          "meaning_ru": "цветок"
+        },
+        {
+          "rank": 199,
+          "character": "説",
+          "meaning_ru": "объяснять"
+        },
+        {
+          "rank": 200,
+          "character": "若",
+          "meaning_ru": "молодой"
+        },
+        {
+          "rank": 201,
+          "character": "違",
+          "meaning_ru": "отличаться"
+        },
+        {
+          "rank": 202,
+          "character": "車",
+          "meaning_ru": "машина"
+        },
+        {
+          "rank": 203,
+          "character": "吉",
+          "meaning_ru": "удача"
+        },
+        {
+          "rank": 204,
+          "character": "字",
+          "meaning_ru": "буква"
+        },
+        {
+          "rank": 205,
+          "character": "底",
+          "meaning_ru": "дно"
+        },
+        {
+          "rank": 206,
+          "character": "想",
+          "meaning_ru": "мысль"
+        },
+        {
+          "rank": 207,
+          "character": "返",
+          "meaning_ru": "возвращать"
+        },
+        {
+          "rank": 208,
+          "character": "愛",
+          "meaning_ru": "любовь"
+        },
+        {
+          "rank": 209,
+          "character": "原",
+          "meaning_ru": "луг"
+        },
+        {
+          "rank": 210,
+          "character": "他",
+          "meaning_ru": "другой"
+        },
+        {
+          "rank": 211,
+          "character": "処",
+          "meaning_ru": "место, распоряжаться"
+        },
+        {
+          "rank": 212,
+          "character": "置",
+          "meaning_ru": "класть"
+        },
+        {
+          "rank": 213,
+          "character": "化",
+          "meaning_ru": "превращаться"
+        },
+        {
+          "rank": 214,
+          "character": "我",
+          "meaning_ru": "я"
+        },
+        {
+          "rank": 215,
+          "character": "命",
+          "meaning_ru": "жизнь, приказ"
+        },
+        {
+          "rank": 216,
+          "character": "数",
+          "meaning_ru": "число"
+        },
+        {
+          "rank": 217,
+          "character": "百",
+          "meaning_ru": "сто"
+        },
+        {
+          "rank": 218,
+          "character": "義",
+          "meaning_ru": "справедливость, долг"
+        },
+        {
+          "rank": 219,
+          "character": "古",
+          "meaning_ru": "старый"
+        },
+        {
+          "rank": 220,
+          "character": "関",
+          "meaning_ru": "отношение, барьер"
+        },
+        {
+          "rank": 221,
+          "character": "付",
+          "meaning_ru": "прикреплять"
+        },
+        {
+          "rank": 222,
+          "character": "朝",
+          "meaning_ru": "утро"
+        },
+        {
+          "rank": 223,
+          "character": "早",
+          "meaning_ru": "рано"
+        },
+        {
+          "rank": 224,
+          "character": "解",
+          "meaning_ru": "понимать, разбирать"
+        },
+        {
+          "rank": 225,
+          "character": "石",
+          "meaning_ru": "камень"
+        },
+        {
+          "rank": 226,
+          "character": "常",
+          "meaning_ru": "постоянный"
+        },
+        {
+          "rank": 227,
+          "character": "海",
+          "meaning_ru": "море"
+        },
+        {
+          "rank": 228,
+          "character": "如",
+          "meaning_ru": "подобно"
+        },
+        {
+          "rank": 229,
+          "character": "火",
+          "meaning_ru": "огонь"
+        },
+        {
+          "rank": 230,
+          "character": "氏",
+          "meaning_ru": "фамилия, род"
+        },
+        {
+          "rank": 231,
+          "character": "要",
+          "meaning_ru": "нужный"
+        },
+        {
+          "rank": 232,
+          "character": "土",
+          "meaning_ru": "земля, почва"
+        },
+        {
+          "rank": 233,
+          "character": "苦",
+          "meaning_ru": "страдать"
+        },
+        {
+          "rank": 234,
+          "character": "定",
+          "meaning_ru": "определять"
+        },
+        {
+          "rank": 235,
+          "character": "九",
+          "meaning_ru": "девять"
+        },
+        {
+          "rank": 236,
+          "character": "過",
+          "meaning_ru": "проходить, превышать"
+        },
+        {
+          "rank": 237,
+          "character": "戸",
+          "meaning_ru": "дверь"
+        },
+        {
+          "rank": 238,
+          "character": "東",
+          "meaning_ru": "восток"
+        },
+        {
+          "rank": 239,
+          "character": "飛",
+          "meaning_ru": "летать"
+        },
+        {
+          "rank": 240,
+          "character": "安",
+          "meaning_ru": "дешёвый, спокойный"
+        },
+        {
+          "rank": 241,
+          "character": "誰",
+          "meaning_ru": "кто"
+        },
+        {
+          "rank": 242,
+          "character": "町",
+          "meaning_ru": "городок"
+        },
+        {
+          "rank": 243,
+          "character": "半",
+          "meaning_ru": "половина"
+        },
+        {
+          "rank": 244,
+          "character": "開",
+          "meaning_ru": "открывать"
+        },
+        {
+          "rank": 245,
+          "character": "助",
+          "meaning_ru": "помогать"
+        },
+        {
+          "rank": 246,
+          "character": "頃",
+          "meaning_ru": "время, около"
+        },
+        {
+          "rank": 247,
+          "character": "庫",
+          "meaning_ru": "склад"
+        },
+        {
+          "rank": 248,
+          "character": "在",
+          "meaning_ru": "существовать"
+        },
+        {
+          "rank": 249,
+          "character": "集",
+          "meaning_ru": "собирать"
+        },
+        {
+          "rank": 250,
+          "character": "民",
+          "meaning_ru": "народ"
+        }
+      ]
     }
   ]
 }
