@@ -1,0 +1,144 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-11-13",
+  "description": "Очередь будущих уроков для японского, китайского и греческого языков. Учебная система выбирает задачи со статусом planned, ориентируясь на приоритет и prerequisite_ids.",
+  "selection_rules": {
+    "eligible_statuses": [
+      "planned"
+    ],
+    "priority_order": [
+      "high",
+      "medium",
+      "low"
+    ],
+    "prefer_language": "ja",
+    "respect_prerequisites": true,
+    "do_not_mark_complete_without_user_confirmation": true,
+    "lesson_style": "Короткие самостоятельные задания без готовых транскрипций; для японского — смешанные русско-японские предложения и отдельная проверка чтений.",
+    "notes": "Файл — план, а не автоматический планировщик. Для выдачи урока его должен прочитать ассистент или приложение."
+  },
+  "lessons": [
+    {
+      "id": "ja-soul-eater-phrase",
+      "language": "ja",
+      "title": "Полный разбор фразы из «Пожирателя душ»",
+      "priority": "high",
+      "status": "planned",
+      "prerequisite_ids": [],
+      "source_text": "健全なる魂は、健全なる精神と健全なる肉体に宿る。",
+      "objectives": [
+        "Разобрать оставшиеся слова 精神, 肉体, 宿る и частицы",
+        "Прочитать всю фразу без подсказки",
+        "Понять её на слух"
+      ],
+      "already_covered": [
+        "健全",
+        "なる",
+        "魂",
+        "は"
+      ]
+    },
+    {
+      "id": "ja-adjectives-pronunciation",
+      "language": "ja",
+      "title": "Японские прилагательные: чтение и употребление",
+      "priority": "high",
+      "status": "planned",
+      "prerequisite_ids": [],
+      "objectives": [
+        "Повторить произношение прилагательных",
+        "Составлять короткие предложения с い-прилагательными",
+        "Узнавать прилагательные на слух"
+      ]
+    },
+    {
+      "id": "ja-kanji-readings",
+      "language": "ja",
+      "title": "Раздельная проверка значения и чтения кандзи",
+      "priority": "high",
+      "status": "planned",
+      "prerequisite_ids": [],
+      "objectives": [
+        "Повторить 日, 明, 人 и другие знакомые знаки",
+        "Проверять чтения отдельно от значений",
+        "Записывать подтверждённые результаты в kanji.json"
+      ]
+    },
+    {
+      "id": "ja-hiragana-listening",
+      "language": "ja",
+      "title": "Хирагана и короткие фразы на слух",
+      "priority": "medium",
+      "status": "planned",
+      "prerequisite_ids": [],
+      "objectives": [
+        "Читать короткие слова самостоятельно",
+        "Узнавать знакомые фразы в аниме",
+        "Закреплять частицы の и は"
+      ]
+    },
+    {
+      "id": "zh-radicals",
+      "language": "zh",
+      "title": "Китайские ключи и их связь с японскими кандзи",
+      "priority": "high",
+      "status": "planned",
+      "prerequisite_ids": [],
+      "objectives": [
+        "Изучать новые ключи небольшими группами",
+        "Разбирать происхождение и строение знаков",
+        "Сравнивать китайские и японские формы"
+      ]
+    },
+    {
+      "id": "zh-pronouns",
+      "language": "zh",
+      "title": "Местоимения и выражение русских падежей",
+      "priority": "medium",
+      "status": "planned",
+      "prerequisite_ids": [],
+      "objectives": [
+        "Разобрать 你 и другие местоимения",
+        "Понять, как китайский передаёт значения «ты», «тебя», «тобой»",
+        "Разобрать короткие примеры"
+      ]
+    },
+    {
+      "id": "el-prayer-vocabulary",
+      "language": "el",
+      "title": "Греческая лексика молитвослова",
+      "priority": "high",
+      "status": "planned",
+      "prerequisite_ids": [],
+      "objectives": [
+        "Выбрать короткий фрагмент молитвы",
+        "Разобрать слова, формы и дословный перевод",
+        "Сверить с японским переводом"
+      ]
+    },
+    {
+      "id": "el-alphabet-reading",
+      "language": "el",
+      "title": "Чтение греческого алфавита",
+      "priority": "medium",
+      "status": "planned",
+      "prerequisite_ids": [],
+      "objectives": [
+        "Проверить узнавание 24 букв",
+        "Практиковать чтение простых слов",
+        "Не считать буквы выученными без проверки"
+      ]
+    }
+  ],
+  "status_definitions": {
+    "planned": "Ожидает изучения",
+    "in_progress": "Изучается",
+    "completed": "Освоено и подтверждено пользователем",
+    "paused": "Отложено"
+  },
+  "usage": {
+    "next_lesson": "Отфильтровать lessons по status=planned, выбрать high с учётом языка и prerequisite_ids.",
+    "after_lesson": "Обновить статус темы и профильные словари/прогресс только по подтверждённым результатам.",
+    "add_topic": "Добавить новую запись с уникальным id, language, title, priority и status=planned."
+  }
+}
