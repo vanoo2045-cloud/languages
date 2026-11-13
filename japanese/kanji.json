@@ -5,7 +5,14 @@
       "character": "日",
       "meaning_ru": "солнце; день",
       "learned_meaning": true,
-      "reading_confirmed": false
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 72,
+      "radical_learned": true,
+      "radical_meaning_ru": "солнце",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 72; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
     },
     {
       "character": "明",
@@ -17,7 +24,14 @@
       "character": "人",
       "meaning_ru": "человек",
       "learned_meaning": true,
-      "reading_confirmed": false
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 9,
+      "radical_learned": true,
+      "radical_meaning_ru": "человек",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 9; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
     },
     {
       "character": "健",
@@ -42,14 +56,26 @@
       "meaning_ru": "один",
       "learned_meaning": true,
       "reading_confirmed": false,
-      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены."
+      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены. Ключ Канси № 1; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 1,
+      "radical_learned": true,
+      "radical_meaning_ru": "один",
+      "radical_variants": []
     },
     {
       "character": "二",
       "meaning_ru": "два",
       "learned_meaning": true,
       "reading_confirmed": false,
-      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены."
+      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены. Ключ Канси № 7; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 7,
+      "radical_learned": true,
+      "radical_meaning_ru": "два",
+      "radical_variants": []
     },
     {
       "character": "三",
@@ -91,7 +117,13 @@
       "meaning_ru": "восемь",
       "learned_meaning": true,
       "reading_confirmed": false,
-      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены."
+      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены. Ключ Канси № 12; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 12,
+      "radical_learned": true,
+      "radical_meaning_ru": "восемь",
+      "radical_variants": []
     },
     {
       "character": "九",
@@ -105,7 +137,13 @@
       "meaning_ru": "десять",
       "learned_meaning": true,
       "reading_confirmed": false,
-      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены."
+      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены. Ключ Канси № 24; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 24,
+      "radical_learned": true,
+      "radical_meaning_ru": "десять",
+      "radical_variants": []
     },
     {
       "character": "百",
@@ -161,21 +199,39 @@
       "meaning_ru": "большой",
       "learned_meaning": true,
       "reading_confirmed": false,
-      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены."
+      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены. Ключ Канси № 37; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 37,
+      "radical_learned": true,
+      "radical_meaning_ru": "большой",
+      "radical_variants": []
     },
     {
       "character": "小",
       "meaning_ru": "маленький",
       "learned_meaning": true,
       "reading_confirmed": false,
-      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены."
+      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены. Ключ Канси № 42; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 42,
+      "radical_learned": true,
+      "radical_meaning_ru": "маленький",
+      "radical_variants": []
     },
     {
       "character": "月",
       "meaning_ru": "месяц",
       "learned_meaning": true,
       "reading_confirmed": false,
-      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены."
+      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены. Ключ Канси № 74; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 74,
+      "radical_learned": true,
+      "radical_meaning_ru": "луна",
+      "radical_variants": []
     },
     {
       "character": "年",
@@ -196,7 +252,13 @@
       "meaning_ru": "дерево",
       "learned_meaning": true,
       "reading_confirmed": false,
-      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены."
+      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены. Ключ Канси № 75; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 75,
+      "radical_learned": true,
+      "radical_meaning_ru": "дерево",
+      "radical_variants": []
     },
     {
       "character": "林",
@@ -210,7 +272,13 @@
       "meaning_ru": "гора",
       "learned_meaning": true,
       "reading_confirmed": false,
-      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены."
+      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены. Ключ Канси № 46; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 46,
+      "radical_learned": true,
+      "radical_meaning_ru": "гора",
+      "radical_variants": []
     },
     {
       "character": "川",
@@ -224,7 +292,13 @@
       "meaning_ru": "земля",
       "learned_meaning": true,
       "reading_confirmed": false,
-      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены."
+      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены. Ключ Канси № 32; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 32,
+      "radical_learned": true,
+      "radical_meaning_ru": "земля",
+      "radical_variants": []
     },
     {
       "character": "空",
@@ -238,7 +312,13 @@
       "meaning_ru": "рисовое поле",
       "learned_meaning": true,
       "reading_confirmed": false,
-      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены."
+      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены. Ключ Канси № 102; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 102,
+      "radical_learned": true,
+      "radical_meaning_ru": "поле",
+      "radical_variants": []
     },
     {
       "character": "天",
@@ -252,7 +332,13 @@
       "meaning_ru": "жизнь",
       "learned_meaning": true,
       "reading_confirmed": false,
-      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены."
+      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены. Ключ Канси № 100; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 100,
+      "radical_learned": true,
+      "radical_meaning_ru": "жизнь",
+      "radical_variants": []
     },
     {
       "character": "花",
@@ -273,14 +359,26 @@
       "meaning_ru": "насекомое",
       "learned_meaning": true,
       "reading_confirmed": false,
-      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены."
+      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены. Ключ Канси № 142; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 142,
+      "radical_learned": true,
+      "radical_meaning_ru": "насекомое",
+      "radical_variants": []
     },
     {
       "character": "犬",
       "meaning_ru": "собака",
       "learned_meaning": true,
       "reading_confirmed": false,
-      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены."
+      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены. Ключ Канси № 94; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 94,
+      "radical_learned": true,
+      "radical_meaning_ru": "собака",
+      "radical_variants": []
     },
     {
       "character": "名",
@@ -294,7 +392,13 @@
       "meaning_ru": "женщина",
       "learned_meaning": true,
       "reading_confirmed": false,
-      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены."
+      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены. Ключ Канси № 38; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 38,
+      "radical_learned": true,
+      "radical_meaning_ru": "женщина",
+      "radical_variants": []
     },
     {
       "character": "男",
@@ -308,63 +412,120 @@
       "meaning_ru": "ребёнок",
       "learned_meaning": true,
       "reading_confirmed": false,
-      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены."
+      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены. Ключ Канси № 39; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 39,
+      "radical_learned": true,
+      "radical_meaning_ru": "ребёнок",
+      "radical_variants": []
     },
     {
       "character": "目",
       "meaning_ru": "глаз",
       "learned_meaning": true,
       "reading_confirmed": false,
-      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены."
+      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены. Ключ Канси № 109; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 109,
+      "radical_learned": true,
+      "radical_meaning_ru": "глаз",
+      "radical_variants": []
     },
     {
       "character": "耳",
       "meaning_ru": "ухо",
       "learned_meaning": true,
       "reading_confirmed": false,
-      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены."
+      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены. Ключ Канси № 128; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 128,
+      "radical_learned": true,
+      "radical_meaning_ru": "ухо",
+      "radical_variants": []
     },
     {
       "character": "口",
       "meaning_ru": "рот",
       "learned_meaning": true,
       "reading_confirmed": false,
-      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены."
+      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены. Ключ Канси № 30; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 30,
+      "radical_learned": true,
+      "radical_meaning_ru": "рот",
+      "radical_variants": []
     },
     {
       "character": "手",
       "meaning_ru": "рука",
       "learned_meaning": true,
       "reading_confirmed": false,
-      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены."
+      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены. Ключ Канси № 64; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 64,
+      "radical_learned": true,
+      "radical_meaning_ru": "рука",
+      "radical_variants": []
     },
     {
       "character": "足",
       "meaning_ru": "нога",
       "learned_meaning": true,
       "reading_confirmed": false,
-      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены."
+      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены. Ключ Канси № 157; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 157,
+      "radical_learned": true,
+      "radical_meaning_ru": "нога",
+      "radical_variants": []
     },
     {
       "character": "見",
       "meaning_ru": "видеть",
       "learned_meaning": true,
       "reading_confirmed": false,
-      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены."
+      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены. Ключ Канси № 147; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 147,
+      "radical_learned": true,
+      "radical_meaning_ru": "видеть",
+      "radical_variants": [
+        "⻅",
+        "见"
+      ]
     },
     {
       "character": "音",
       "meaning_ru": "звук",
       "learned_meaning": true,
       "reading_confirmed": false,
-      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены."
+      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены. Ключ Канси № 180; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 180,
+      "radical_learned": true,
+      "radical_meaning_ru": "звук",
+      "radical_variants": []
     },
     {
       "character": "力",
       "meaning_ru": "сила",
       "learned_meaning": true,
       "reading_confirmed": false,
-      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены."
+      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены. Ключ Канси № 19; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 19,
+      "radical_learned": true,
+      "radical_meaning_ru": "сила",
+      "radical_variants": []
     },
     {
       "character": "気",
@@ -385,7 +546,13 @@
       "meaning_ru": "вход",
       "learned_meaning": true,
       "reading_confirmed": false,
-      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены."
+      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены. Ключ Канси № 11; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 11,
+      "radical_learned": true,
+      "radical_meaning_ru": "входить",
+      "radical_variants": []
     },
     {
       "character": "出",
@@ -399,7 +566,13 @@
       "meaning_ru": "вставать",
       "learned_meaning": true,
       "reading_confirmed": false,
-      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены."
+      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены. Ключ Канси № 117; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 117,
+      "radical_learned": true,
+      "radical_meaning_ru": "стоять",
+      "radical_variants": []
     },
     {
       "character": "休",
@@ -420,7 +593,13 @@
       "meaning_ru": "вечер",
       "learned_meaning": true,
       "reading_confirmed": false,
-      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены."
+      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены. Ключ Канси № 36; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 36,
+      "radical_learned": true,
+      "radical_meaning_ru": "вечер",
+      "radical_variants": []
     },
     {
       "character": "本",
@@ -434,7 +613,13 @@
       "meaning_ru": "текст",
       "learned_meaning": true,
       "reading_confirmed": false,
-      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены."
+      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены. Ключ Канси № 67; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 67,
+      "radical_learned": true,
+      "radical_meaning_ru": "письменность",
+      "radical_variants": []
     },
     {
       "character": "字",
@@ -490,21 +675,39 @@
       "meaning_ru": "вода",
       "learned_meaning": true,
       "reading_confirmed": false,
-      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены."
+      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены. Ключ Канси № 85; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 85,
+      "radical_learned": true,
+      "radical_meaning_ru": "вода",
+      "radical_variants": []
     },
     {
       "character": "火",
       "meaning_ru": "огонь",
       "learned_meaning": true,
       "reading_confirmed": false,
-      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены."
+      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены. Ключ Канси № 86; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 86,
+      "radical_learned": true,
+      "radical_meaning_ru": "огонь",
+      "radical_variants": []
     },
     {
       "character": "玉",
       "meaning_ru": "драгоценный камень",
       "learned_meaning": true,
       "reading_confirmed": false,
-      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены."
+      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены. Ключ Канси № 96; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 96,
+      "radical_learned": true,
+      "radical_meaning_ru": "нефрит",
+      "radical_variants": []
     },
     {
       "character": "王",
@@ -518,56 +721,116 @@
       "meaning_ru": "камень",
       "learned_meaning": true,
       "reading_confirmed": false,
-      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены."
+      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены. Ключ Канси № 112; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 112,
+      "radical_learned": true,
+      "radical_meaning_ru": "камень",
+      "radical_variants": []
     },
     {
       "character": "竹",
       "meaning_ru": "бамбук",
       "learned_meaning": true,
       "reading_confirmed": false,
-      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены."
+      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены. Ключ Канси № 118; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 118,
+      "radical_learned": true,
+      "radical_meaning_ru": "бамбук",
+      "radical_variants": []
     },
     {
       "character": "糸",
       "meaning_ru": "нить",
       "learned_meaning": true,
       "reading_confirmed": false,
-      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены."
+      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены. Ключ Канси № 120; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 120,
+      "radical_learned": true,
+      "radical_meaning_ru": "шёлк",
+      "radical_variants": [
+        "⺰",
+        "纟"
+      ]
     },
     {
       "character": "貝",
       "meaning_ru": "ракушка",
       "learned_meaning": true,
       "reading_confirmed": false,
-      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены."
+      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены. Ключ Канси № 154; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 154,
+      "radical_learned": true,
+      "radical_meaning_ru": "раковина",
+      "radical_variants": [
+        "⻉",
+        "贝"
+      ]
     },
     {
       "character": "車",
       "meaning_ru": "машина",
       "learned_meaning": true,
       "reading_confirmed": false,
-      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены."
+      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены. Ключ Канси № 159; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 159,
+      "radical_learned": true,
+      "radical_meaning_ru": "повозка",
+      "radical_variants": [
+        "⻋",
+        "车"
+      ]
     },
     {
       "character": "金",
       "meaning_ru": "золото",
       "learned_meaning": true,
       "reading_confirmed": false,
-      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены."
+      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены. Ключ Канси № 167; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 167,
+      "radical_learned": true,
+      "radical_meaning_ru": "золото",
+      "radical_variants": [
+        "⻐",
+        "钅"
+      ]
     },
     {
       "character": "雨",
       "meaning_ru": "дождь",
       "learned_meaning": true,
       "reading_confirmed": false,
-      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены."
+      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены. Ключ Канси № 173; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 173,
+      "radical_learned": true,
+      "radical_meaning_ru": "дождь",
+      "radical_variants": []
     },
     {
       "character": "赤",
       "meaning_ru": "красный",
       "learned_meaning": true,
       "reading_confirmed": false,
-      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены."
+      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены. Ключ Канси № 155; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 155,
+      "radical_learned": true,
+      "radical_meaning_ru": "красный",
+      "radical_variants": []
     },
     {
       "character": "青",
@@ -581,7 +844,13 @@
       "meaning_ru": "белый",
       "learned_meaning": true,
       "reading_confirmed": false,
-      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены."
+      "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены. Ключ Канси № 106; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 106,
+      "radical_learned": true,
+      "radical_meaning_ru": "белый",
+      "radical_variants": []
     },
     {
       "character": "神",
@@ -616,7 +885,13 @@
       "meaning_ru": "сердце",
       "learned_meaning": false,
       "reading_confirmed": false,
-      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались. Ключ Канси № 61; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 61,
+      "radical_learned": true,
+      "radical_meaning_ru": "сердце",
+      "radical_variants": []
     },
     {
       "character": "体",
@@ -644,7 +919,13 @@
       "meaning_ru": "достигать; предельно",
       "learned_meaning": false,
       "reading_confirmed": false,
-      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались. Ключ Канси № 133; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 133,
+      "radical_learned": true,
+      "radical_meaning_ru": "достигать",
+      "radical_variants": []
     },
     {
       "character": "聖",
@@ -686,7 +967,13 @@
       "meaning_ru": "язык (орган)",
       "learned_meaning": false,
       "reading_confirmed": false,
-      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались. Ключ Канси № 135; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 135,
+      "radical_learned": true,
+      "radical_meaning_ru": "язык",
+      "radical_variants": []
     },
     {
       "character": "両",
@@ -728,7 +1015,13 @@
       "meaning_ru": "не; отрицание",
       "learned_meaning": false,
       "reading_confirmed": false,
-      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались. Ключ Канси № 175; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 175,
+      "radical_learned": true,
+      "radical_meaning_ru": "неправильный",
+      "radical_variants": []
     },
     {
       "character": "法",
@@ -791,14 +1084,26 @@
       "meaning_ru": "кровь",
       "learned_meaning": false,
       "reading_confirmed": false,
-      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались. Ключ Канси № 143; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 143,
+      "radical_learned": true,
+      "radical_meaning_ru": "кровь",
+      "radical_variants": []
     },
     {
       "character": "骨",
       "meaning_ru": "кость",
       "learned_meaning": false,
       "reading_confirmed": false,
-      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались. Ключ Канси № 188; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 188,
+      "radical_learned": true,
+      "radical_meaning_ru": "кость",
+      "radical_variants": []
     },
     {
       "character": "末",
@@ -812,7 +1117,13 @@
       "meaning_ru": "лицо; поверхность",
       "learned_meaning": false,
       "reading_confirmed": false,
-      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались. Ключ Канси № 176; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 176,
+      "radical_learned": true,
+      "radical_meaning_ru": "лицо",
+      "radical_variants": []
     },
     {
       "character": "好",
@@ -875,7 +1186,13 @@
       "meaning_ru": "отец",
       "learned_meaning": false,
       "reading_confirmed": false,
-      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались. Ключ Канси № 88; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 88,
+      "radical_learned": true,
+      "radical_meaning_ru": "отец",
+      "radical_variants": []
     },
     {
       "character": "開",
@@ -889,7 +1206,13 @@
       "meaning_ru": "плоть; мясо",
       "learned_meaning": false,
       "reading_confirmed": false,
-      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались. Ключ Канси № 130; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 130,
+      "radical_learned": true,
+      "radical_meaning_ru": "мясо",
+      "radical_variants": []
     },
     {
       "character": "歌",
@@ -931,7 +1254,13 @@
       "meaning_ru": "работа; ремесло",
       "learned_meaning": false,
       "reading_confirmed": false,
-      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались. Ключ Канси № 48; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 48,
+      "radical_learned": true,
+      "radical_meaning_ru": "работа",
+      "radical_variants": []
     },
     {
       "character": "喜",
@@ -1029,7 +1358,13 @@
       "meaning_ru": "идти",
       "learned_meaning": false,
       "reading_confirmed": false,
-      "notes": "Запланировано для изучения: № 13 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+      "notes": "Запланировано для изучения: № 13 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit. Ключ Канси № 144; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 144,
+      "radical_learned": true,
+      "radical_meaning_ru": "идти",
+      "radical_variants": []
     },
     {
       "character": "時",
@@ -1057,7 +1392,13 @@
       "meaning_ru": "сам",
       "learned_meaning": false,
       "reading_confirmed": false,
-      "notes": "Запланировано для изучения: № 19 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+      "notes": "Запланировано для изучения: № 19 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit. Ключ Канси № 132; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 132,
+      "radical_learned": true,
+      "radical_meaning_ru": "сам",
+      "radical_variants": []
     },
     {
       "character": "彼",
@@ -1078,14 +1419,29 @@
       "meaning_ru": "говорить",
       "learned_meaning": false,
       "reading_confirmed": false,
-      "notes": "Запланировано для изучения: № 23 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+      "notes": "Запланировано для изучения: № 23 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit. Ключ Канси № 149; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 149,
+      "radical_learned": true,
+      "radical_meaning_ru": "речь",
+      "radical_variants": [
+        "⻈",
+        "讠"
+      ]
     },
     {
       "character": "方",
       "meaning_ru": "направление, способ",
       "learned_meaning": false,
       "reading_confirmed": false,
-      "notes": "Запланировано для изучения: № 24 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+      "notes": "Запланировано для изучения: № 24 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit. Ключ Канси № 70; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 70,
+      "radical_learned": true,
+      "radical_meaning_ru": "квадрат",
+      "radical_variants": []
     },
     {
       "character": "家",
@@ -1225,7 +1581,13 @@
       "meaning_ru": "тело",
       "learned_meaning": false,
       "reading_confirmed": false,
-      "notes": "Запланировано для изучения: № 66 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+      "notes": "Запланировано для изучения: № 66 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit. Ключ Канси № 158; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 158,
+      "radical_learned": true,
+      "radical_meaning_ru": "тело",
+      "radical_variants": []
     },
     {
       "character": "実",
@@ -1253,7 +1615,16 @@
       "meaning_ru": "длинный",
       "learned_meaning": false,
       "reading_confirmed": false,
-      "notes": "Запланировано для изучения: № 71 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+      "notes": "Запланировано для изучения: № 71 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit. Ключ Канси № 168; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 168,
+      "radical_learned": true,
+      "radical_meaning_ru": "длинный",
+      "radical_variants": [
+        "⻓",
+        "长"
+      ]
     },
     {
       "character": "聞",
@@ -1414,7 +1785,17 @@
       "meaning_ru": "ветер",
       "learned_meaning": false,
       "reading_confirmed": false,
-      "notes": "Запланировано для изучения: № 109 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+      "notes": "Запланировано для изучения: № 109 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit. Ключ Канси № 182; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 182,
+      "radical_learned": true,
+      "radical_meaning_ru": "ветер",
+      "radical_variants": [
+        "⻛",
+        "风",
+        "𲋄"
+      ]
     },
     {
       "character": "新",
@@ -1505,7 +1886,13 @@
       "meaning_ru": "цвет",
       "learned_meaning": false,
       "reading_confirmed": false,
-      "notes": "Запланировано для изучения: № 130 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+      "notes": "Запланировано для изучения: № 130 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit. Ключ Канси № 139; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 139,
+      "radical_learned": true,
+      "radical_meaning_ru": "цвет",
+      "radical_variants": []
     },
     {
       "character": "発",
@@ -1519,7 +1906,13 @@
       "meaning_ru": "высокий",
       "learned_meaning": false,
       "reading_confirmed": false,
-      "notes": "Запланировано для изучения: № 132 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+      "notes": "Запланировано для изучения: № 132 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit. Ключ Канси № 189; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 189,
+      "radical_learned": true,
+      "radical_meaning_ru": "высокий",
+      "radical_variants": []
     },
     {
       "character": "以",
@@ -1533,7 +1926,13 @@
       "meaning_ru": "использовать",
       "learned_meaning": false,
       "reading_confirmed": false,
-      "notes": "Запланировано для изучения: № 135 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+      "notes": "Запланировано для изучения: № 135 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit. Ключ Канси № 101; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 101,
+      "radical_learned": true,
+      "radical_meaning_ru": "использовать",
+      "radical_variants": []
     },
     {
       "character": "頭",
@@ -1645,7 +2044,16 @@
       "meaning_ru": "еда",
       "learned_meaning": false,
       "reading_confirmed": false,
-      "notes": "Запланировано для изучения: № 158 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+      "notes": "Запланировано для изучения: № 158 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit. Ключ Канси № 184; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 184,
+      "radical_learned": true,
+      "radical_meaning_ru": "есть",
+      "radical_variants": [
+        "⻠",
+        "饣"
+      ]
     },
     {
       "character": "落",
@@ -1673,7 +2081,16 @@
       "meaning_ru": "лошадь",
       "learned_meaning": false,
       "reading_confirmed": false,
-      "notes": "Запланировано для изучения: № 162 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+      "notes": "Запланировано для изучения: № 162 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit. Ключ Канси № 187; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 187,
+      "radical_learned": true,
+      "radical_meaning_ru": "лошадь",
+      "radical_variants": [
+        "⻢",
+        "马"
+      ]
     },
     {
       "character": "等",
@@ -1792,14 +2209,29 @@
       "meaning_ru": "воин",
       "learned_meaning": false,
       "reading_confirmed": false,
-      "notes": "Запланировано для изучения: № 189 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+      "notes": "Запланировано для изучения: № 189 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit. Ключ Канси № 33; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 33,
+      "radical_learned": true,
+      "radical_meaning_ru": "учёный",
+      "radical_variants": []
     },
     {
       "character": "門",
       "meaning_ru": "ворота",
       "learned_meaning": false,
       "reading_confirmed": false,
-      "notes": "Запланировано для изучения: № 190 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+      "notes": "Запланировано для изучения: № 190 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit. Ключ Канси № 169; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 169,
+      "radical_learned": true,
+      "radical_meaning_ru": "ворота",
+      "radical_variants": [
+        "⻔",
+        "门"
+      ]
     },
     {
       "character": "重",
@@ -2002,7 +2434,13 @@
       "meaning_ru": "фамилия, род",
       "learned_meaning": false,
       "reading_confirmed": false,
-      "notes": "Запланировано для изучения: № 230 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+      "notes": "Запланировано для изучения: № 230 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit. Ключ Канси № 83; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 83,
+      "radical_learned": true,
+      "radical_meaning_ru": "род",
+      "radical_variants": []
     },
     {
       "character": "要",
@@ -2051,7 +2489,16 @@
       "meaning_ru": "летать",
       "learned_meaning": false,
       "reading_confirmed": false,
-      "notes": "Запланировано для изучения: № 239 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+      "notes": "Запланировано для изучения: № 239 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit. Ключ Канси № 183; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения.",
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 183,
+      "radical_learned": true,
+      "radical_meaning_ru": "летать",
+      "radical_variants": [
+        "⻜",
+        "飞"
+      ]
     },
     {
       "character": "安",
@@ -2115,6 +2562,1959 @@
       "learned_meaning": false,
       "reading_confirmed": false,
       "notes": "Запланировано для изучения: № 250 в личном списке 250 кандзи. Источник: https://docs.google.com/document/d/1p208OzgLtJJ135RITAkOYJdRzkO8y18HIwAdgu0L2JQ/edit."
+    },
+    {
+      "character": "丨",
+      "meaning_ru": "вертикальная черта",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 2,
+      "radical_learned": true,
+      "radical_meaning_ru": "вертикальная черта",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 2; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "丶",
+      "meaning_ru": "точка",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 3,
+      "radical_learned": true,
+      "radical_meaning_ru": "точка",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 3; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "丿",
+      "meaning_ru": "откидная черта",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 4,
+      "radical_learned": true,
+      "radical_meaning_ru": "откидная черта",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 4; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "乙",
+      "meaning_ru": "второй",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 5,
+      "radical_learned": true,
+      "radical_meaning_ru": "второй",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 5; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "亅",
+      "meaning_ru": "крюк",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 6,
+      "radical_learned": true,
+      "radical_meaning_ru": "крюк",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 6; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "亠",
+      "meaning_ru": "крышка",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 8,
+      "radical_learned": true,
+      "radical_meaning_ru": "крышка",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 8; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "儿",
+      "meaning_ru": "ноги",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 10,
+      "radical_learned": true,
+      "radical_meaning_ru": "ноги",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 10; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "冂",
+      "meaning_ru": "охватывающая рамка",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 13,
+      "radical_learned": true,
+      "radical_meaning_ru": "охватывающая рамка",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 13; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "冖",
+      "meaning_ru": "покрытие",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 14,
+      "radical_learned": true,
+      "radical_meaning_ru": "покрытие",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 14; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "冫",
+      "meaning_ru": "лёд",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 15,
+      "radical_learned": true,
+      "radical_meaning_ru": "лёд",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 15; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "几",
+      "meaning_ru": "столик",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 16,
+      "radical_learned": true,
+      "radical_meaning_ru": "столик",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 16; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "凵",
+      "meaning_ru": "открытая коробка",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 17,
+      "radical_learned": true,
+      "radical_meaning_ru": "открытая коробка",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 17; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "刀",
+      "meaning_ru": "нож",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 18,
+      "radical_learned": true,
+      "radical_meaning_ru": "нож",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 18; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "勹",
+      "meaning_ru": "обёртывать",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 20,
+      "radical_learned": true,
+      "radical_meaning_ru": "обёртывать",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 20; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "匕",
+      "meaning_ru": "ложка",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 21,
+      "radical_learned": true,
+      "radical_meaning_ru": "ложка",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 21; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "匚",
+      "meaning_ru": "коробка",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 22,
+      "radical_learned": true,
+      "radical_meaning_ru": "коробка",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 22; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "匸",
+      "meaning_ru": "скрывать",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 23,
+      "radical_learned": true,
+      "radical_meaning_ru": "скрывать",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 23; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "卜",
+      "meaning_ru": "гадание",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 25,
+      "radical_learned": true,
+      "radical_meaning_ru": "гадание",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 25; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "卩",
+      "meaning_ru": "печать",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 26,
+      "radical_learned": true,
+      "radical_meaning_ru": "печать",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 26; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "厂",
+      "meaning_ru": "обрыв",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 27,
+      "radical_learned": true,
+      "radical_meaning_ru": "обрыв",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 27; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "厶",
+      "meaning_ru": "личный",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 28,
+      "radical_learned": true,
+      "radical_meaning_ru": "личный",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 28; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "又",
+      "meaning_ru": "снова",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 29,
+      "radical_learned": true,
+      "radical_meaning_ru": "снова",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 29; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "囗",
+      "meaning_ru": "ограда",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 31,
+      "radical_learned": true,
+      "radical_meaning_ru": "ограда",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 31; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "夂",
+      "meaning_ru": "идти",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 34,
+      "radical_learned": true,
+      "radical_meaning_ru": "идти",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 34; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "夊",
+      "meaning_ru": "медленно идти",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 35,
+      "radical_learned": true,
+      "radical_meaning_ru": "медленно идти",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 35; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "宀",
+      "meaning_ru": "крыша",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 40,
+      "radical_learned": true,
+      "radical_meaning_ru": "крыша",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 40; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "寸",
+      "meaning_ru": "дюйм",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 41,
+      "radical_learned": true,
+      "radical_meaning_ru": "дюйм",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 41; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "尢",
+      "meaning_ru": "хромой",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 43,
+      "radical_learned": true,
+      "radical_meaning_ru": "хромой",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 43; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "尸",
+      "meaning_ru": "тело",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 44,
+      "radical_learned": true,
+      "radical_meaning_ru": "тело",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 44; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "屮",
+      "meaning_ru": "росток",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 45,
+      "radical_learned": true,
+      "radical_meaning_ru": "росток",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 45; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "巛",
+      "meaning_ru": "река",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 47,
+      "radical_learned": true,
+      "radical_meaning_ru": "река",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 47; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "己",
+      "meaning_ru": "сам",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 49,
+      "radical_learned": true,
+      "radical_meaning_ru": "сам",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 49; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "巾",
+      "meaning_ru": "платок",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 50,
+      "radical_learned": true,
+      "radical_meaning_ru": "платок",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 50; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "干",
+      "meaning_ru": "сухой",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 51,
+      "radical_learned": true,
+      "radical_meaning_ru": "сухой",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 51; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "幺",
+      "meaning_ru": "короткая нить",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 52,
+      "radical_learned": true,
+      "radical_meaning_ru": "короткая нить",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 52; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "广",
+      "meaning_ru": "навес",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 53,
+      "radical_learned": true,
+      "radical_meaning_ru": "навес",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 53; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "廴",
+      "meaning_ru": "длинный шаг",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 54,
+      "radical_learned": true,
+      "radical_meaning_ru": "длинный шаг",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 54; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "廾",
+      "meaning_ru": "две руки",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 55,
+      "radical_learned": true,
+      "radical_meaning_ru": "две руки",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 55; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "弋",
+      "meaning_ru": "стрелять",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 56,
+      "radical_learned": true,
+      "radical_meaning_ru": "стрелять",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 56; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "弓",
+      "meaning_ru": "лук",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 57,
+      "radical_learned": true,
+      "radical_meaning_ru": "лук",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 57; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "彐",
+      "meaning_ru": "рыло",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 58,
+      "radical_learned": true,
+      "radical_meaning_ru": "рыло",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 58; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "彡",
+      "meaning_ru": "щетина",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 59,
+      "radical_learned": true,
+      "radical_meaning_ru": "щетина",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 59; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "彳",
+      "meaning_ru": "шаг",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 60,
+      "radical_learned": true,
+      "radical_meaning_ru": "шаг",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 60; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "戈",
+      "meaning_ru": "алебарда",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 62,
+      "radical_learned": true,
+      "radical_meaning_ru": "алебарда",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 62; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "戶",
+      "meaning_ru": "дверь",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 63,
+      "radical_learned": true,
+      "radical_meaning_ru": "дверь",
+      "radical_variants": [
+        "戸"
+      ],
+      "notes": "Ключ Канси № 63; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "支",
+      "meaning_ru": "ветвь",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 65,
+      "radical_learned": true,
+      "radical_meaning_ru": "ветвь",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 65; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "攴",
+      "meaning_ru": "ударять",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 66,
+      "radical_learned": true,
+      "radical_meaning_ru": "ударять",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 66; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "斗",
+      "meaning_ru": "ковш",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 68,
+      "radical_learned": true,
+      "radical_meaning_ru": "ковш",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 68; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "斤",
+      "meaning_ru": "топор",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 69,
+      "radical_learned": true,
+      "radical_meaning_ru": "топор",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 69; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "无",
+      "meaning_ru": "отрицание",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 71,
+      "radical_learned": true,
+      "radical_meaning_ru": "отрицание",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 71; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "曰",
+      "meaning_ru": "говорить",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 73,
+      "radical_learned": true,
+      "radical_meaning_ru": "говорить",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 73; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "欠",
+      "meaning_ru": "нехватка",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 76,
+      "radical_learned": true,
+      "radical_meaning_ru": "нехватка",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 76; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "止",
+      "meaning_ru": "останавливаться",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 77,
+      "radical_learned": true,
+      "radical_meaning_ru": "останавливаться",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 77; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "歹",
+      "meaning_ru": "смерть",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 78,
+      "radical_learned": true,
+      "radical_meaning_ru": "смерть",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 78; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "殳",
+      "meaning_ru": "оружие",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 79,
+      "radical_learned": true,
+      "radical_meaning_ru": "оружие",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 79; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "毋",
+      "meaning_ru": "не надо",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 80,
+      "radical_learned": true,
+      "radical_meaning_ru": "не надо",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 80; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "比",
+      "meaning_ru": "сравнивать",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 81,
+      "radical_learned": true,
+      "radical_meaning_ru": "сравнивать",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 81; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "毛",
+      "meaning_ru": "шерсть",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 82,
+      "radical_learned": true,
+      "radical_meaning_ru": "шерсть",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 82; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "气",
+      "meaning_ru": "пар",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 84,
+      "radical_learned": true,
+      "radical_meaning_ru": "пар",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 84; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "爪",
+      "meaning_ru": "коготь",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 87,
+      "radical_learned": true,
+      "radical_meaning_ru": "коготь",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 87; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "爻",
+      "meaning_ru": "скрещённые черты",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 89,
+      "radical_learned": true,
+      "radical_meaning_ru": "скрещённые черты",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 89; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "爿",
+      "meaning_ru": "половина ствола",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 90,
+      "radical_learned": true,
+      "radical_meaning_ru": "половина ствола",
+      "radical_variants": [
+        "⺦",
+        "丬"
+      ],
+      "notes": "Ключ Канси № 90; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "片",
+      "meaning_ru": "щепка",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 91,
+      "radical_learned": true,
+      "radical_meaning_ru": "щепка",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 91; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "牙",
+      "meaning_ru": "клык",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 92,
+      "radical_learned": true,
+      "radical_meaning_ru": "клык",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 92; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "牛",
+      "meaning_ru": "корова",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 93,
+      "radical_learned": true,
+      "radical_meaning_ru": "корова",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 93; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "玄",
+      "meaning_ru": "таинственный",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 95,
+      "radical_learned": true,
+      "radical_meaning_ru": "таинственный",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 95; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "瓜",
+      "meaning_ru": "дыня",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 97,
+      "radical_learned": true,
+      "radical_meaning_ru": "дыня",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 97; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "瓦",
+      "meaning_ru": "черепица",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 98,
+      "radical_learned": true,
+      "radical_meaning_ru": "черепица",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 98; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "甘",
+      "meaning_ru": "сладкий",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 99,
+      "radical_learned": true,
+      "radical_meaning_ru": "сладкий",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 99; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "疋",
+      "meaning_ru": "рулон ткани",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 103,
+      "radical_learned": true,
+      "radical_meaning_ru": "рулон ткани",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 103; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "疒",
+      "meaning_ru": "болезнь",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 104,
+      "radical_learned": true,
+      "radical_meaning_ru": "болезнь",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 104; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "癶",
+      "meaning_ru": "расставленные ноги",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 105,
+      "radical_learned": true,
+      "radical_meaning_ru": "расставленные ноги",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 105; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "皮",
+      "meaning_ru": "кожа",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 107,
+      "radical_learned": true,
+      "radical_meaning_ru": "кожа",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 107; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "皿",
+      "meaning_ru": "блюдо",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 108,
+      "radical_learned": true,
+      "radical_meaning_ru": "блюдо",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 108; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "矛",
+      "meaning_ru": "копьё",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 110,
+      "radical_learned": true,
+      "radical_meaning_ru": "копьё",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 110; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "矢",
+      "meaning_ru": "стрела",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 111,
+      "radical_learned": true,
+      "radical_meaning_ru": "стрела",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 111; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "示",
+      "meaning_ru": "алтарь",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 113,
+      "radical_learned": true,
+      "radical_meaning_ru": "алтарь",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 113; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "禸",
+      "meaning_ru": "след",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 114,
+      "radical_learned": true,
+      "radical_meaning_ru": "след",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 114; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "禾",
+      "meaning_ru": "злак",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 115,
+      "radical_learned": true,
+      "radical_meaning_ru": "злак",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 115; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "穴",
+      "meaning_ru": "пещера",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 116,
+      "radical_learned": true,
+      "radical_meaning_ru": "пещера",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 116; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "米",
+      "meaning_ru": "рис",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 119,
+      "radical_learned": true,
+      "radical_meaning_ru": "рис",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 119; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "缶",
+      "meaning_ru": "сосуд",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 121,
+      "radical_learned": true,
+      "radical_meaning_ru": "сосуд",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 121; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "网",
+      "meaning_ru": "сеть",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 122,
+      "radical_learned": true,
+      "radical_meaning_ru": "сеть",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 122; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "羊",
+      "meaning_ru": "овца",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 123,
+      "radical_learned": true,
+      "radical_meaning_ru": "овца",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 123; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "羽",
+      "meaning_ru": "перо",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 124,
+      "radical_learned": true,
+      "radical_meaning_ru": "перо",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 124; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "老",
+      "meaning_ru": "старый",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 125,
+      "radical_learned": true,
+      "radical_meaning_ru": "старый",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 125; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "而",
+      "meaning_ru": "и",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 126,
+      "radical_learned": true,
+      "radical_meaning_ru": "и",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 126; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "耒",
+      "meaning_ru": "плуг",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 127,
+      "radical_learned": true,
+      "radical_meaning_ru": "плуг",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 127; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "聿",
+      "meaning_ru": "кисть",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 129,
+      "radical_learned": true,
+      "radical_meaning_ru": "кисть",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 129; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "臣",
+      "meaning_ru": "министр",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 131,
+      "radical_learned": true,
+      "radical_meaning_ru": "министр",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 131; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "臼",
+      "meaning_ru": "ступа",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 134,
+      "radical_learned": true,
+      "radical_meaning_ru": "ступа",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 134; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "舛",
+      "meaning_ru": "противоположный",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 136,
+      "radical_learned": true,
+      "radical_meaning_ru": "противоположный",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 136; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "舟",
+      "meaning_ru": "лодка",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 137,
+      "radical_learned": true,
+      "radical_meaning_ru": "лодка",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 137; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "艮",
+      "meaning_ru": "останавливаться",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 138,
+      "radical_learned": true,
+      "radical_meaning_ru": "останавливаться",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 138; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "艸",
+      "meaning_ru": "трава",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 140,
+      "radical_learned": true,
+      "radical_meaning_ru": "трава",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 140; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "虍",
+      "meaning_ru": "тигр",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 141,
+      "radical_learned": true,
+      "radical_meaning_ru": "тигр",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 141; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "衣",
+      "meaning_ru": "одежда",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 145,
+      "radical_learned": true,
+      "radical_meaning_ru": "одежда",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 145; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "襾",
+      "meaning_ru": "запад",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 146,
+      "radical_learned": true,
+      "radical_meaning_ru": "запад",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 146; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "角",
+      "meaning_ru": "рог",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 148,
+      "radical_learned": true,
+      "radical_meaning_ru": "рог",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 148; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "谷",
+      "meaning_ru": "долина",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 150,
+      "radical_learned": true,
+      "radical_meaning_ru": "долина",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 150; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "豆",
+      "meaning_ru": "боб",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 151,
+      "radical_learned": true,
+      "radical_meaning_ru": "боб",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 151; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "豕",
+      "meaning_ru": "свинья",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 152,
+      "radical_learned": true,
+      "radical_meaning_ru": "свинья",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 152; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "豸",
+      "meaning_ru": "барсук",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 153,
+      "radical_learned": true,
+      "radical_meaning_ru": "барсук",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 153; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "走",
+      "meaning_ru": "бежать",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 156,
+      "radical_learned": true,
+      "radical_meaning_ru": "бежать",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 156; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "辛",
+      "meaning_ru": "горький",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 160,
+      "radical_learned": true,
+      "radical_meaning_ru": "горький",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 160; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "辰",
+      "meaning_ru": "утро",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 161,
+      "radical_learned": true,
+      "radical_meaning_ru": "утро",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 161; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "辵",
+      "meaning_ru": "движение",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 162,
+      "radical_learned": true,
+      "radical_meaning_ru": "движение",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 162; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "邑",
+      "meaning_ru": "город",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 163,
+      "radical_learned": true,
+      "radical_meaning_ru": "город",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 163; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "酉",
+      "meaning_ru": "вино",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 164,
+      "radical_learned": true,
+      "radical_meaning_ru": "вино",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 164; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "釆",
+      "meaning_ru": "различать",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 165,
+      "radical_learned": true,
+      "radical_meaning_ru": "различать",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 165; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "里",
+      "meaning_ru": "деревня",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 166,
+      "radical_learned": true,
+      "radical_meaning_ru": "деревня",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 166; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "阜",
+      "meaning_ru": "холм",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 170,
+      "radical_learned": true,
+      "radical_meaning_ru": "холм",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 170; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "隶",
+      "meaning_ru": "подчинённый",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 171,
+      "radical_learned": true,
+      "radical_meaning_ru": "подчинённый",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 171; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "隹",
+      "meaning_ru": "короткохвостая птица",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 172,
+      "radical_learned": true,
+      "radical_meaning_ru": "короткохвостая птица",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 172; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "靑",
+      "meaning_ru": "сине-зелёный",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 174,
+      "radical_learned": true,
+      "radical_meaning_ru": "сине-зелёный",
+      "radical_variants": [
+        "青"
+      ],
+      "notes": "Ключ Канси № 174; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "革",
+      "meaning_ru": "кожа",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 177,
+      "radical_learned": true,
+      "radical_meaning_ru": "кожа",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 177; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "韋",
+      "meaning_ru": "выделанная кожа",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 178,
+      "radical_learned": true,
+      "radical_meaning_ru": "выделанная кожа",
+      "radical_variants": [
+        "⻙",
+        "韦"
+      ],
+      "notes": "Ключ Канси № 178; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "韭",
+      "meaning_ru": "лук-порей",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 179,
+      "radical_learned": true,
+      "radical_meaning_ru": "лук-порей",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 179; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "頁",
+      "meaning_ru": "голова",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 181,
+      "radical_learned": true,
+      "radical_meaning_ru": "голова",
+      "radical_variants": [
+        "⻚",
+        "页"
+      ],
+      "notes": "Ключ Канси № 181; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "首",
+      "meaning_ru": "голова",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 185,
+      "radical_learned": true,
+      "radical_meaning_ru": "голова",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 185; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "香",
+      "meaning_ru": "аромат",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 186,
+      "radical_learned": true,
+      "radical_meaning_ru": "аромат",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 186; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "髟",
+      "meaning_ru": "волосы",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 190,
+      "radical_learned": true,
+      "radical_meaning_ru": "волосы",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 190; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "鬥",
+      "meaning_ru": "борьба",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 191,
+      "radical_learned": true,
+      "radical_meaning_ru": "борьба",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 191; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "鬯",
+      "meaning_ru": "жертвенное вино",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 192,
+      "radical_learned": true,
+      "radical_meaning_ru": "жертвенное вино",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 192; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "鬲",
+      "meaning_ru": "котёл",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 193,
+      "radical_learned": true,
+      "radical_meaning_ru": "котёл",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 193; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "鬼",
+      "meaning_ru": "призрак",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 194,
+      "radical_learned": true,
+      "radical_meaning_ru": "призрак",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 194; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "魚",
+      "meaning_ru": "рыба",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 195,
+      "radical_learned": true,
+      "radical_meaning_ru": "рыба",
+      "radical_variants": [
+        "⻥",
+        "鱼"
+      ],
+      "notes": "Ключ Канси № 195; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "鳥",
+      "meaning_ru": "птица",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 196,
+      "radical_learned": true,
+      "radical_meaning_ru": "птица",
+      "radical_variants": [
+        "⻦",
+        "鸟"
+      ],
+      "notes": "Ключ Канси № 196; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "鹵",
+      "meaning_ru": "соль",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 197,
+      "radical_learned": true,
+      "radical_meaning_ru": "соль",
+      "radical_variants": [
+        "⻧",
+        "卤"
+      ],
+      "notes": "Ключ Канси № 197; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "鹿",
+      "meaning_ru": "олень",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 198,
+      "radical_learned": true,
+      "radical_meaning_ru": "олень",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 198; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "麥",
+      "meaning_ru": "пшеница",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 199,
+      "radical_learned": true,
+      "radical_meaning_ru": "пшеница",
+      "radical_variants": [
+        "⻨",
+        "麦"
+      ],
+      "notes": "Ключ Канси № 199; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "麻",
+      "meaning_ru": "конопля",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 200,
+      "radical_learned": true,
+      "radical_meaning_ru": "конопля",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 200; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "黃",
+      "meaning_ru": "жёлтый",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 201,
+      "radical_learned": true,
+      "radical_meaning_ru": "жёлтый",
+      "radical_variants": [
+        "⻩",
+        "黄"
+      ],
+      "notes": "Ключ Канси № 201; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "黍",
+      "meaning_ru": "просо",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 202,
+      "radical_learned": true,
+      "radical_meaning_ru": "просо",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 202; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "黑",
+      "meaning_ru": "чёрный",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 203,
+      "radical_learned": true,
+      "radical_meaning_ru": "чёрный",
+      "radical_variants": [
+        "黒"
+      ],
+      "notes": "Ключ Канси № 203; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "黹",
+      "meaning_ru": "вышивка",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 204,
+      "radical_learned": true,
+      "radical_meaning_ru": "вышивка",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 204; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "黽",
+      "meaning_ru": "лягушка",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 205,
+      "radical_learned": true,
+      "radical_meaning_ru": "лягушка",
+      "radical_variants": [
+        "⻪",
+        "黾"
+      ],
+      "notes": "Ключ Канси № 205; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "鼎",
+      "meaning_ru": "треножник",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 206,
+      "radical_learned": true,
+      "radical_meaning_ru": "треножник",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 206; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "鼓",
+      "meaning_ru": "барабан",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 207,
+      "radical_learned": true,
+      "radical_meaning_ru": "барабан",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 207; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "鼠",
+      "meaning_ru": "крыса",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 208,
+      "radical_learned": true,
+      "radical_meaning_ru": "крыса",
+      "radical_variants": [
+        "鼡"
+      ],
+      "notes": "Ключ Канси № 208; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "鼻",
+      "meaning_ru": "нос",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 209,
+      "radical_learned": true,
+      "radical_meaning_ru": "нос",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 209; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "齊",
+      "meaning_ru": "ровный",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 210,
+      "radical_learned": true,
+      "radical_meaning_ru": "ровный",
+      "radical_variants": [
+        "⻬",
+        "齐",
+        "⻫",
+        "斉"
+      ],
+      "notes": "Ключ Канси № 210; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "齒",
+      "meaning_ru": "зуб",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 211,
+      "radical_learned": true,
+      "radical_meaning_ru": "зуб",
+      "radical_variants": [
+        "⻮",
+        "齿",
+        "⻭",
+        "歯"
+      ],
+      "notes": "Ключ Канси № 211; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "龍",
+      "meaning_ru": "дракон",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 212,
+      "radical_learned": true,
+      "radical_meaning_ru": "дракон",
+      "radical_variants": [
+        "⻰",
+        "龙",
+        "⻯",
+        "竜",
+        "𱷥"
+      ],
+      "notes": "Ключ Канси № 212; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "龜",
+      "meaning_ru": "черепаха",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 213,
+      "radical_learned": true,
+      "radical_meaning_ru": "черепаха",
+      "radical_variants": [
+        "龟",
+        "⻲",
+        "亀"
+      ],
+      "notes": "Ключ Канси № 213; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
+    },
+    {
+      "character": "龠",
+      "meaning_ru": "флейта",
+      "learned_meaning": true,
+      "reading_confirmed": false,
+      "is_radical": true,
+      "radical_system": "kangxi",
+      "radical_number": 214,
+      "radical_learned": true,
+      "radical_meaning_ru": "флейта",
+      "radical_variants": [],
+      "notes": "Ключ Канси № 214; выучен со слов пользователя 2026-11-13. Это отметка знания ключа, не подтверждение всех значений самостоятельного слова, чтений или письма. Источник нумерации и форм: https://www.unicode.org/Public/17.0.0/ucd/CJKRadicals.txt. Варианты приведены для справки, без отдельной проверки их освоения."
     }
   ]
 }
