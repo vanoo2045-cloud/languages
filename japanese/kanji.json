@@ -1,0 +1,41 @@
+{
+  "language": "ja",
+  "entries": [
+    {
+      "character": "日",
+      "meaning_ru": "солнце; день",
+      "learned_meaning": true,
+      "reading_confirmed": false
+    },
+    {
+      "character": "明",
+      "meaning_ru": "светлый; яркий",
+      "learned_meaning": true,
+      "reading_confirmed": false
+    },
+    {
+      "character": "人",
+      "meaning_ru": "человек",
+      "learned_meaning": true,
+      "reading_confirmed": false
+    },
+    {
+      "character": "健",
+      "meaning_ru": "здоровый; крепкий",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "practiced_writing": true,
+      "notes": "Прописан около 10 раз 6 ноября 2026; знание значения и чтения отдельно не подтверждено"
+    },
+    {
+      "character": "魂",
+      "meaning_ru": "душа",
+      "learned_meaning": false,
+      "reading_confirmed": true,
+      "confirmed_readings": [
+        "たましい"
+      ],
+      "notes": "Разбирались состав 云 и 鬼, а также чтение 魂は"
+    }
+  ]
+}
