@@ -1,0 +1,28 @@
+{
+  "language": "el",
+  "entries": [
+    {
+      "id": "pater",
+      "written": "Πατήρ",
+      "meaning_ru": "отец",
+      "status": "reference",
+      "mastery_confirmed": false,
+      "notes": "Книжная/церковная форма; не отмечена как выученная"
+    },
+    {
+      "id": "theos",
+      "written": "Θεός",
+      "meaning_ru": "Бог",
+      "status": "reference",
+      "mastery_confirmed": false
+    },
+    {
+      "id": "onoma",
+      "written": "ὄνομα",
+      "meaning_ru": "имя",
+      "status": "reference",
+      "mastery_confirmed": false
+    }
+  ],
+  "note": "Стартовые справочные слова, не подтверждённые как изученные."
+}
