@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "language": "ja",
+  "updated_at": "2026-11-13",
+  "purpose": "Очередь тем для будущих уроков именно этого языка; используется при запросе нового урока.",
+  "selection_rules": {
+    "eligible_statuses": [
+      "planned"
+    ],
+    "priority_order": [
+      "high",
+      "medium",
+      "low"
+    ],
+    "respect_prerequisites": true,
+    "do_not_mark_complete_without_user_confirmation": true
+  },
+  "status_definitions": {
+    "planned": "Ожидает изучения",
+    "in_progress": "Изучается",
+    "completed": "Освоено и подтверждено пользователем",
+    "paused": "Отложено"
+  },
+  "lessons": [
+    {
+      "id": "ja-soul-eater-phrase",
+      "language": "ja",
+      "title": "Полный разбор фразы из «Пожирателя душ»",
+      "priority": "high",
+      "status": "planned",
+      "prerequisite_ids": [],
+      "source_text": "健全なる魂は、健全なる精神と健全なる肉体に宿る。",
+      "objectives": [
+        "Разобрать оставшиеся слова 精神, 肉体, 宿る и частицы",
+        "Прочитать всю фразу без подсказки",
+        "Понять её на слух"
+      ],
+      "already_covered": [
+        "健全",
+        "なる",
+        "魂",
+        "は"
+      ]
+    },
+    {
+      "id": "ja-adjectives-pronunciation",
+      "language": "ja",
+      "title": "Японские прилагательные: чтение и употребление",
+      "priority": "high",
+      "status": "planned",
+      "prerequisite_ids": [],
+      "objectives": [
+        "Повторить произношение прилагательных",
+        "Составлять короткие предложения с い-прилагательными",
+        "Узнавать прилагательные на слух"
+      ]
+    },
+    {
+      "id": "ja-kanji-readings",
+      "language": "ja",
+      "title": "Раздельная проверка значения и чтения кандзи",
+      "priority": "high",
+      "status": "planned",
+      "prerequisite_ids": [],
+      "objectives": [
+        "Повторить 日, 明, 人 и другие знакомые знаки",
+        "Проверять чтения отдельно от значений",
+        "Записывать подтверждённые результаты в kanji.json"
+      ]
+    },
+    {
+      "id": "ja-hiragana-listening",
+      "language": "ja",
+      "title": "Хирагана и короткие фразы на слух",
+      "priority": "medium",
+      "status": "planned",
+      "prerequisite_ids": [],
+      "objectives": [
+        "Читать короткие слова самостоятельно",
+        "Узнавать знакомые фразы в аниме",
+        "Закреплять частицы の и は"
+      ]
+    }
+  ]
+}
