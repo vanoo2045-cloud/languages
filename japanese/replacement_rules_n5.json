@@ -1,0 +1,104 @@
+{
+  "purpose": "Строгие контекстные и грамматические правила подстановки для будущего режима N5",
+  "default_policy": "replace_only_if_explicitly_safe",
+  "rules": [
+    {
+      "id": "father",
+      "russian_lemmas": [
+        "отец"
+      ],
+      "japanese": "父",
+      "allowed": true,
+      "part_of_speech": "noun"
+    },
+    {
+      "id": "mother",
+      "russian_lemmas": [
+        "мать"
+      ],
+      "japanese": "母",
+      "allowed": true,
+      "part_of_speech": "noun"
+    },
+    {
+      "id": "age_six",
+      "russian_phrase": "с шести лет",
+      "japanese": "с 6歳",
+      "reading": "ろくさい",
+      "allowed": true,
+      "level": "beginner",
+      "note": "Сохраняется русское «с»; альтернативный более японский вариант: 6歳から, без русского «с»"
+    },
+    {
+      "id": "age_six_advanced",
+      "russian_phrase": "с шести лет",
+      "japanese": "6歳から",
+      "reading": "ろくさいから",
+      "allowed": true,
+      "level": "intermediate"
+    },
+    {
+      "id": "conjunction_i",
+      "russian_lemmas": [
+        "и"
+      ],
+      "japanese": "と",
+      "allowed": false,
+      "note": "と соединяет главным образом существительные; русское «и» может соединять предложения и глаголы"
+    },
+    {
+      "id": "relative_chto",
+      "russian_phrase": "всё, что",
+      "japanese": null,
+      "allowed": false,
+      "note": "何 — вопросительное «что», не относительное местоимение"
+    },
+    {
+      "id": "preposition_na",
+      "russian_lemmas": [
+        "на"
+      ],
+      "japanese": "くらえよ",
+      "allowed": false,
+      "note": "くらえよ — «получай!», не предлог"
+    },
+    {
+      "id": "preposition_o",
+      "russian_lemmas": [
+        "о"
+      ],
+      "japanese": "おお",
+      "allowed": false,
+      "note": "おお — междометие, не предлог"
+    },
+    {
+      "id": "negation_ne",
+      "russian_lemmas": [
+        "не"
+      ],
+      "japanese": "非",
+      "allowed": false,
+      "note": "非 не является универсальным отрицанием"
+    },
+    {
+      "id": "possessive_moi",
+      "russian_lemmas": [
+        "мой"
+      ],
+      "japanese": "私の",
+      "allowed": false,
+      "note": "Требуется проверка лица, контекста и грамматической роли"
+    }
+  ],
+  "algorithm": [
+    "Сначала искать наиболее длинные фразы, затем отдельные слова.",
+    "Приводить русские словоформы к леммам с учётом части речи.",
+    "Не подставлять записи со значением auto_replace=false или без явного разрешения.",
+    "Не считать статус learned подтверждением пригодности к автоматической замене.",
+    "При неоднозначности оставлять русский текст.",
+    "Не менять статус изученности на основании появления слова в тексте."
+  ],
+  "profile": "n5",
+  "applies_only_to": "n5",
+  "basic_mode_unaffected": true
+}
