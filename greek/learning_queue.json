@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "language": "el",
+  "language": "grc",
   "updated_at": "2026-11-13",
   "purpose": "Очередь тем для будущих уроков именно этого языка; используется при запросе нового урока.",
   "selection_rules": {
@@ -24,7 +24,7 @@
   "lessons": [
     {
       "id": "el-1cor-vocabulary-review",
-      "language": "el",
+      "language": "grc",
       "title": "Знакомая лексика из 1 Кор 1–4",
       "priority": "high",
       "status": "planned",
@@ -37,7 +37,7 @@
     },
     {
       "id": "el-aorist-indicative",
-      "language": "el",
+      "language": "grc",
       "title": "Аорист в изъявительном наклонении",
       "priority": "high",
       "status": "planned",
@@ -49,7 +49,7 @@
     },
     {
       "id": "el-1cor-1-8-9",
-      "language": "el",
+      "language": "grc",
       "title": "Два слова из 1 Кор 1:8–9",
       "priority": "high",
       "status": "planned",
@@ -80,13 +80,13 @@
     },
     {
       "id": "el-prayer-vocabulary",
-      "language": "el",
+      "language": "grc",
       "title": "Греческая лексика молитвослова",
       "priority": "high",
       "status": "planned",
       "prerequisite_ids": [],
       "objectives": [
-        "Выбрать короткий фрагмент молитвы",
+        "Выбрать фрагмент из знакомых текстов: «Отче наш», «Царю Небесный», утренние или вечерние молитвы, Акафист Пресвятой Богородице.",
         "Разобрать слова, формы и дословный перевод",
         "Сверить с японским переводом"
       ]
