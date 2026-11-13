@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "language": "el",
+  "updated_at": "2026-11-13",
+  "purpose": "Очередь тем для будущих уроков именно этого языка; используется при запросе нового урока.",
+  "selection_rules": {
+    "eligible_statuses": [
+      "planned"
+    ],
+    "priority_order": [
+      "high",
+      "medium",
+      "low"
+    ],
+    "respect_prerequisites": true,
+    "do_not_mark_complete_without_user_confirmation": true
+  },
+  "status_definitions": {
+    "planned": "Ожидает изучения",
+    "in_progress": "Изучается",
+    "completed": "Освоено и подтверждено пользователем",
+    "paused": "Отложено"
+  },
+  "lessons": [
+    {
+      "id": "el-prayer-vocabulary",
+      "language": "el",
+      "title": "Греческая лексика молитвослова",
+      "priority": "high",
+      "status": "planned",
+      "prerequisite_ids": [],
+      "objectives": [
+        "Выбрать короткий фрагмент молитвы",
+        "Разобрать слова, формы и дословный перевод",
+        "Сверить с японским переводом"
+      ]
+    },
+    {
+      "id": "el-alphabet-reading",
+      "language": "el",
+      "title": "Чтение греческого алфавита",
+      "priority": "medium",
+      "status": "planned",
+      "prerequisite_ids": [],
+      "objectives": [
+        "Проверить узнавание 24 букв",
+        "Практиковать чтение простых слов",
+        "Не считать буквы выученными без проверки"
+      ]
+    }
+  ]
+}
