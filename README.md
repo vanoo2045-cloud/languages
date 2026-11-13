@@ -8,7 +8,7 @@
 |---|---|---|---|---|
 | Японский | `japanese/words.json` | `japanese/kanji.json` | `japanese/progress.json` | `japanese/learning_queue.json` |
 | Китайский | `chinese/words.json` | `chinese/hanzi.json` | `chinese/progress.json` | `chinese/learning_queue.json` |
-| Древнегреческий | `greek/words.json` | `greek/alphabet.json` | `greek/progress.json` | `greek/learning_queue.json` |
+| Древнегреческий | `ancientGreek/words.json` | `ancientGreek/alphabet.json` | `ancientGreek/progress.json` | `ancientGreek/learning_queue.json` |
 
 ## Для чего нужен learning_queue.json
 
@@ -32,7 +32,7 @@
 
 ## Слова, которые я считал выученными
 
-Для каждого языка есть отдельный словарь повторения: [японский](japanese/thought_i_knew.json), [китайский](chinese/thought_i_knew.json) и [древнегреческий](greek/thought_i_knew.json).
+Для каждого языка есть отдельный словарь повторения: [японский](japanese/thought_i_knew.json), [китайский](chinese/thought_i_knew.json) и [древнегреческий](ancientGreek/thought_i_knew.json).
 
 Если пользователь считал слово знакомым, но ошибся или не смог вспомнить ответ, обновить запись в `words.json` этого языка: поставить `status: "needs_review"` и `mastery_confirmed: false`. При первом разборе слова завести запись с собственным `id`. В `thought_i_knew.json` добавить или обновить карточку в массиве `vocabulary` по тому же `id`. Сохранить перевод, форму и поля чтения из основной записи. В `notes` указать, что вызвало затруднение: значение, чтение или написание. Сохранять уже подтверждённые сведения об остальных навыках.
 
