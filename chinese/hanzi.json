@@ -1,0 +1,27 @@
+{
+  "language": "zh",
+  "entries": [
+    {
+      "character": "干",
+      "meaning_ru": "сухой",
+      "pinyin": [
+        "gān"
+      ],
+      "meaning_recognition_confirmed": false,
+      "pronunciation_confirmed": false,
+      "writing_practiced": true,
+      "needs_review": true
+    },
+    {
+      "character": "海",
+      "meaning_ru": "море",
+      "pinyin": [
+        "hǎi"
+      ],
+      "meaning_recognition_confirmed": false,
+      "pronunciation_confirmed": false,
+      "notes": "Использовался в эксперименте с русскими окончаниями, не подтверждает освоение китайского"
+    }
+  ],
+  "note": "Китайские ключи изучались, но индивидуальный список освоенных 214 ключей пока не подтверждён."
+}
