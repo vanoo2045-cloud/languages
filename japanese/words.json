@@ -8959,6 +8959,72 @@
       "hiragana": "ひゃくばんめ",
       "romaji": "",
       "alternative_form": "第百"
+    },
+    {
+      "id": "basic_kanji_year",
+      "word": "год",
+      "japan": "年",
+      "hiragana": "ねん",
+      "romaji": "nen",
+      "status": "not_studied",
+      "mastery_confirmed": false,
+      "substitution_mode": "basic",
+      "notes": "Для базовой автоматической подстановки и визуального запоминания иероглифов. Не считать освоенным без проверки."
+    },
+    {
+      "id": "basic_kanji_town",
+      "word": "небольшой город; посёлок",
+      "japan": "町",
+      "hiragana": "まち",
+      "romaji": "machi",
+      "status": "not_studied",
+      "mastery_confirmed": false,
+      "substitution_mode": "basic",
+      "notes": "Для базовой автоматической подстановки и визуального запоминания иероглифов. Не считать освоенным без проверки."
+    },
+    {
+      "id": "basic_kanji_man",
+      "word": "мужчина; мужской",
+      "japan": "男",
+      "hiragana": "おとこ",
+      "romaji": "otoko",
+      "status": "not_studied",
+      "mastery_confirmed": false,
+      "substitution_mode": "basic",
+      "notes": "Для базовой автоматической подстановки и визуального запоминания иероглифов. Не считать освоенным без проверки."
+    },
+    {
+      "id": "basic_kanji_boy",
+      "word": "мальчик",
+      "japan": "男の子",
+      "hiragana": "おとこのこ",
+      "romaji": "otoko no ko",
+      "status": "not_studied",
+      "mastery_confirmed": false,
+      "substitution_mode": "basic",
+      "notes": "Для базовой автоматической подстановки и визуального запоминания иероглифов. Не считать освоенным без проверки."
+    },
+    {
+      "id": "basic_kanji_age",
+      "word": "возраст в годах; счётный суффикс лет",
+      "japan": "歳",
+      "hiragana": "さい",
+      "romaji": "sai",
+      "status": "not_studied",
+      "mastery_confirmed": false,
+      "substitution_mode": "basic",
+      "notes": "Для базовой автоматической подстановки и визуального запоминания иероглифов. Не считать освоенным без проверки."
+    },
+    {
+      "id": "basic_kanji_age_six",
+      "word": "шесть лет (возраст)",
+      "japan": "6歳",
+      "hiragana": "ろくさい",
+      "romaji": "rokusai",
+      "status": "not_studied",
+      "mastery_confirmed": false,
+      "substitution_mode": "basic",
+      "notes": "Для базовой автоматической подстановки и визуального запоминания иероглифов. Не считать освоенным без проверки."
     }
   ],
   "language": "ja"
