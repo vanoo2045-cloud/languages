@@ -1,28 +1,128 @@
 {
-  "language": "el",
-  "entries": [
+  "vocabulary": [
     {
+      "word": "отец",
+      "codeBible": "3962",
+      "english": "",
+      "french": "",
+      "greece": "Πατήρ",
+      "japan": "",
+      "chineese": "",
       "id": "pater",
-      "written": "Πατήρ",
-      "meaning_ru": "отец",
       "status": "reference",
       "mastery_confirmed": false,
       "notes": "Книжная/церковная форма; не отмечена как выученная"
     },
     {
+      "word": "Бог",
+      "codeBible": "2316",
+      "english": "",
+      "french": "",
+      "greece": "Θεός",
+      "japan": "",
+      "chineese": "",
       "id": "theos",
-      "written": "Θεός",
-      "meaning_ru": "Бог",
       "status": "reference",
       "mastery_confirmed": false
     },
     {
+      "word": "имя",
+      "codeBible": "3686",
+      "english": "",
+      "french": "",
+      "greece": "ὄνομα",
+      "japan": "",
+      "chineese": "",
       "id": "onoma",
-      "written": "ὄνομα",
-      "meaning_ru": "имя",
+      "status": "reference",
+      "mastery_confirmed": false
+    },
+    {
+      "word": "пришёл",
+      "codeBible": "2064",
+      "english": "",
+      "french": "",
+      "greece": "ἦλθον",
+      "japan": "",
+      "chineese": "",
+      "id": "elthon",
+      "status": "reference",
+      "mastery_confirmed": false,
+      "notes": "В данном примере форма первого лица единственного числа: «я пришёл»."
+    },
+    {
+      "word": "да святится",
+      "codeBible": "37",
+      "english": "",
+      "french": "",
+      "greece": "ἁγιασθήτω",
+      "japan": "",
+      "chineese": "",
+      "id": "hagias_theto",
+      "status": "reference",
+      "mastery_confirmed": false
+    },
+    {
+      "word": "царство",
+      "codeBible": "932",
+      "english": "",
+      "french": "",
+      "greece": "βασιλεία",
+      "japan": "",
+      "chineese": "",
+      "id": "basileia",
+      "status": "reference",
+      "mastery_confirmed": false
+    },
+    {
+      "word": "воля",
+      "codeBible": "2307",
+      "english": "",
+      "french": "",
+      "greece": "θέλημα",
+      "japan": "",
+      "chineese": "",
+      "id": "thelema",
+      "status": "reference",
+      "mastery_confirmed": false
+    },
+    {
+      "word": "земля",
+      "codeBible": "1093",
+      "english": "",
+      "french": "",
+      "greece": "γῆ",
+      "japan": "",
+      "chineese": "",
+      "id": "ge",
+      "status": "reference",
+      "mastery_confirmed": false
+    },
+    {
+      "word": "хлеб",
+      "codeBible": "740",
+      "english": "",
+      "french": "",
+      "greece": "ἄρτος",
+      "japan": "",
+      "chineese": "",
+      "id": "artos",
+      "status": "reference",
+      "mastery_confirmed": false
+    },
+    {
+      "word": "сегодня",
+      "codeBible": "4594",
+      "english": "",
+      "french": "",
+      "greece": "σήμερον",
+      "japan": "",
+      "chineese": "",
+      "id": "semeron",
       "status": "reference",
       "mastery_confirmed": false
     }
   ],
+  "language": "el",
   "note": "Стартовые справочные слова, не подтверждённые как изученные."
 }
