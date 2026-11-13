@@ -1,0 +1,24 @@
+{
+  "purpose": "Режимы подстановки русских слов японскими знаками в текстах",
+  "default_mode": "basic",
+  "modes": {
+    "basic": {
+      "title": "Базовый",
+      "goal": "Запоминание максимального количества иероглифов через частое появление в русскоязычных текстах",
+      "rules_file": null,
+      "allow_automatic_replacement": true,
+      "require_grammatical_equivalence": false,
+      "require_context_validation": false,
+      "notes": "Не применять ограничения из replacement_rules.json. Использовать словарь как источник подстановок; допустимы грамматически неточные замены. Статусы изученности не менять автоматически."
+    },
+    "n5": {
+      "title": "N5 (будущий)",
+      "goal": "Более корректные японские подстановки с учётом контекста и грамматики",
+      "rules_file": "replacement_rules.json",
+      "allow_automatic_replacement": true,
+      "require_grammatical_equivalence": true,
+      "require_context_validation": true,
+      "notes": "Строгие ограничения действуют только в режиме N5. Интерфейс выбора режима будет добавлен позже."
+    }
+  }
+}
