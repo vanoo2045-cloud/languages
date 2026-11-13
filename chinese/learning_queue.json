@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "language": "zh",
+  "updated_at": "2026-11-13",
+  "purpose": "Очередь тем для будущих уроков именно этого языка; используется при запросе нового урока.",
+  "selection_rules": {
+    "eligible_statuses": [
+      "planned"
+    ],
+    "priority_order": [
+      "high",
+      "medium",
+      "low"
+    ],
+    "respect_prerequisites": true,
+    "do_not_mark_complete_without_user_confirmation": true
+  },
+  "status_definitions": {
+    "planned": "Ожидает изучения",
+    "in_progress": "Изучается",
+    "completed": "Освоено и подтверждено пользователем",
+    "paused": "Отложено"
+  },
+  "lessons": [
+    {
+      "id": "zh-radicals",
+      "language": "zh",
+      "title": "Китайские ключи и их связь с японскими кандзи",
+      "priority": "high",
+      "status": "planned",
+      "prerequisite_ids": [],
+      "objectives": [
+        "Изучать новые ключи небольшими группами",
+        "Разбирать происхождение и строение знаков",
+        "Сравнивать китайские и японские формы"
+      ]
+    },
+    {
+      "id": "zh-pronouns",
+      "language": "zh",
+      "title": "Местоимения и выражение русских падежей",
+      "priority": "medium",
+      "status": "planned",
+      "prerequisite_ids": [],
+      "objectives": [
+        "Разобрать 你 и другие местоимения",
+        "Понять, как китайский передаёт значения «ты», «тебя», «тобой»",
+        "Разобрать короткие примеры"
+      ]
+    }
+  ]
+}
