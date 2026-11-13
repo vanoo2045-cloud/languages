@@ -582,6 +582,433 @@
       "learned_meaning": true,
       "reading_confirmed": false,
       "notes": "Кёику, 1-й класс; значение отмечено как выученное со слов пользователя 2026-11-13. Источник списка: https://akanji.ru/school/kyouiku-year-1. Чтение и письмо отдельно не подтверждены."
+    },
+    {
+      "character": "神",
+      "meaning_ru": "Бог; божество",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+    },
+    {
+      "character": "私",
+      "meaning_ru": "я; частный",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+    },
+    {
+      "character": "全",
+      "meaning_ru": "всё; целый",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+    },
+    {
+      "character": "能",
+      "meaning_ru": "способность",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+    },
+    {
+      "character": "心",
+      "meaning_ru": "сердце",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+    },
+    {
+      "character": "体",
+      "meaning_ru": "тело",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+    },
+    {
+      "character": "真",
+      "meaning_ru": "истина; истинный",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+    },
+    {
+      "character": "夜",
+      "meaning_ru": "ночь",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+    },
+    {
+      "character": "至",
+      "meaning_ru": "достигать; предельно",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+    },
+    {
+      "character": "聖",
+      "meaning_ru": "святой",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+    },
+    {
+      "character": "霊",
+      "meaning_ru": "дух",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+    },
+    {
+      "character": "罪",
+      "meaning_ru": "грех; вина",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+    },
+    {
+      "character": "母",
+      "meaning_ru": "мать",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+    },
+    {
+      "character": "信",
+      "meaning_ru": "вера; доверие",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+    },
+    {
+      "character": "舌",
+      "meaning_ru": "язык (орган)",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+    },
+    {
+      "character": "両",
+      "meaning_ru": "оба",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+    },
+    {
+      "character": "国",
+      "meaning_ru": "страна; государство",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+    },
+    {
+      "character": "光",
+      "meaning_ru": "свет",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+    },
+    {
+      "character": "愛",
+      "meaning_ru": "любовь",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+    },
+    {
+      "character": "者",
+      "meaning_ru": "человек; деятель",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+    },
+    {
+      "character": "非",
+      "meaning_ru": "не; отрицание",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+    },
+    {
+      "character": "法",
+      "meaning_ru": "закон; способ",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+    },
+    {
+      "character": "善",
+      "meaning_ru": "добро",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+    },
+    {
+      "character": "帝",
+      "meaning_ru": "император",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+    },
+    {
+      "character": "敵",
+      "meaning_ru": "враг",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+    },
+    {
+      "character": "主",
+      "meaning_ru": "Господь; господин",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+    },
+    {
+      "character": "宅",
+      "meaning_ru": "дом; жилище",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+    },
+    {
+      "character": "悪",
+      "meaning_ru": "зло",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+    },
+    {
+      "character": "地",
+      "meaning_ru": "земля",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+    },
+    {
+      "character": "血",
+      "meaning_ru": "кровь",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+    },
+    {
+      "character": "骨",
+      "meaning_ru": "кость",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+    },
+    {
+      "character": "末",
+      "meaning_ru": "конец",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+    },
+    {
+      "character": "面",
+      "meaning_ru": "лицо; поверхность",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+    },
+    {
+      "character": "好",
+      "meaning_ru": "любить; нравиться",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+    },
+    {
+      "character": "祈",
+      "meaning_ru": "молиться; молитва",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+    },
+    {
+      "character": "慈",
+      "meaning_ru": "милосердие",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+    },
+    {
+      "character": "悲",
+      "meaning_ru": "печаль; сострадание",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+    },
+    {
+      "character": "教",
+      "meaning_ru": "учить",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+    },
+    {
+      "character": "今",
+      "meaning_ru": "сейчас; ныне",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+    },
+    {
+      "character": "完",
+      "meaning_ru": "завершение",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+    },
+    {
+      "character": "洗",
+      "meaning_ru": "мыть",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+    },
+    {
+      "character": "父",
+      "meaning_ru": "отец",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+    },
+    {
+      "character": "開",
+      "meaning_ru": "открывать",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+    },
+    {
+      "character": "肉",
+      "meaning_ru": "плоть; мясо",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+    },
+    {
+      "character": "歌",
+      "meaning_ru": "песня; петь",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+    },
+    {
+      "character": "常",
+      "meaning_ru": "постоянный; всегда",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+    },
+    {
+      "character": "前",
+      "meaning_ru": "прежде; перед",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+    },
+    {
+      "character": "来",
+      "meaning_ru": "приходить",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+    },
+    {
+      "character": "道",
+      "meaning_ru": "путь",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+    },
+    {
+      "character": "工",
+      "meaning_ru": "работа; ремесло",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+    },
+    {
+      "character": "喜",
+      "meaning_ru": "радость",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+    },
+    {
+      "character": "点",
+      "meaning_ru": "точка",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+    },
+    {
+      "character": "魔",
+      "meaning_ru": "демон",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+    },
+    {
+      "character": "栄",
+      "meaning_ru": "слава; процветание",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+    },
+    {
+      "character": "語",
+      "meaning_ru": "слово; язык",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+    },
+    {
+      "character": "泪",
+      "meaning_ru": "слеза",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+    },
+    {
+      "character": "死",
+      "meaning_ru": "смерть",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+    },
+    {
+      "character": "雪",
+      "meaning_ru": "снег",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+    },
+    {
+      "character": "眠",
+      "meaning_ru": "сон",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+    },
+    {
+      "character": "療",
+      "meaning_ru": "лечить; лечение",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
+    },
+    {
+      "character": "浄",
+      "meaning_ru": "чистый; очищать",
+      "learned_meaning": false,
+      "reading_confirmed": false,
+      "notes": "Встречается в личном гибридном молитвослове: https://drive.google.com/file/d/14nidzVltx8SpcG0uNYOXTB58WpLW6lvv/view. Значение приведено отдельно от русских окончаний и контекстных подстановок; освоение, чтение и письмо не подтверждались."
     }
   ]
 }
