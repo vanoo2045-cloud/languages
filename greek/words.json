@@ -8,7 +8,7 @@
       "greece": "Πατήρ",
       "japan": "",
       "chineese": "",
-      "id": "pater",
+      "id": "el-3962",
       "status": "reference",
       "mastery_confirmed": false,
       "notes": "Книжная/церковная форма; не отмечена как выученная"
@@ -21,7 +21,7 @@
       "greece": "Θεός",
       "japan": "",
       "chineese": "",
-      "id": "theos",
+      "id": "el-2316",
       "status": "reference",
       "mastery_confirmed": false
     },
@@ -33,7 +33,7 @@
       "greece": "ὄνομα",
       "japan": "",
       "chineese": "",
-      "id": "onoma",
+      "id": "el-3686",
       "status": "reference",
       "mastery_confirmed": false
     },
@@ -45,7 +45,7 @@
       "greece": "ἦλθον",
       "japan": "",
       "chineese": "",
-      "id": "elthon",
+      "id": "el-2064",
       "status": "reference",
       "mastery_confirmed": false,
       "notes": "В данном примере форма первого лица единственного числа: «я пришёл»."
@@ -58,7 +58,7 @@
       "greece": "ἁγιασθήτω",
       "japan": "",
       "chineese": "",
-      "id": "hagias_theto",
+      "id": "el-37",
       "status": "reference",
       "mastery_confirmed": false
     },
@@ -70,7 +70,7 @@
       "greece": "βασιλεία",
       "japan": "",
       "chineese": "",
-      "id": "basileia",
+      "id": "el-932",
       "status": "reference",
       "mastery_confirmed": false
     },
@@ -82,7 +82,7 @@
       "greece": "θέλημα",
       "japan": "",
       "chineese": "",
-      "id": "thelema",
+      "id": "el-2307",
       "status": "reference",
       "mastery_confirmed": false
     },
@@ -94,7 +94,7 @@
       "greece": "γῆ",
       "japan": "",
       "chineese": "",
-      "id": "ge",
+      "id": "el-1093",
       "status": "reference",
       "mastery_confirmed": false
     },
@@ -106,7 +106,7 @@
       "greece": "ἄρτος",
       "japan": "",
       "chineese": "",
-      "id": "artos",
+      "id": "el-740",
       "status": "reference",
       "mastery_confirmed": false
     },
@@ -118,7 +118,7 @@
       "greece": "σήμερον",
       "japan": "",
       "chineese": "",
-      "id": "semeron",
+      "id": "el-4594",
       "status": "reference",
       "mastery_confirmed": false
     }
